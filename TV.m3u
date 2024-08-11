@@ -1,0 +1,71 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="612" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",ABP Majha
+https://d35oztzk0vhm95.cloudfront.net/out/v1/2ec63396e10746e4a203657825ec0477/index_8.m3u8
+#EXTINF:-1 tvg-id="442" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="News",Zee 24 Taas
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="232" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News",News18 Lokmat
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_98835_eng=98800-video=2702400.m3u8
+#EXTINF:-1 tvg-id="617" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News",TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="177" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News
+https://d3njfzse3yrqgm.cloudfront.net/out/v1/4fdb5641e7fb444da44f0c39aa57ed19/index_4.m3u8
+#EXTINF:-1 tvg-id="504" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-id="173" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="1360" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Entertainment",Zee Marathi
+http://tv.cloudcdn.me:80/live.ts?channelId=28132&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="755" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Entertainment",Colors Marathi
+http://tv.cloudcdn.me:80/live.ts?channelId=28126&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="1207" tvg-logo="https://www.disneystar.com/media/3481/star_pravah_logo_1201x601_hd.png?width=1920&height=1080&mode=max&slimmage=true" group-title="Entertainment",Star Pravah 
+http://tv.cloudcdn.me:80/live.ts?channelId=28128&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="1146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment",Sony Marathi
+http://tv.cloudcdn.me:80/live.ts?channelId=78841&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="414" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Entertainment",Zee Yuva
+http://tv.cloudcdn.me:80/live.ts?channelId=78816&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="1358" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies",Zee Talkies
+http://tv.cloudcdn.me:80/live.ts?channelId=28131&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony
+http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB
+http://tv.cloudcdn.me:80/live.ts?channelId=191&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="167" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV
+http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="144" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors
+http://tv.cloudcdn.me:80/live.ts?channelId=160&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="472" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",&TV
+http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="115" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/StarPlus_logo_%282018%29.png/revision/latest?cb=20201128160713" group-title="Entertainment",Star Plus 
+http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="121" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Star_Bharat_logo.png" group-title="Entertainment",Star Bharat
+http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="483" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies",Sony Max 2
+http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="165" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema
+http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="185" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",&Pictures
+http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="1668" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png" group-title="Movies",Xplore
+http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="308" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Movies",Star Gold
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="339" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest/scale-to-width-down/250?cb=20211216003639" group-title="Movies",Star Gold Select
+http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="1763" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies",Colors Cineplex Bollywood
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1450" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies",Colors Cineplex Superhit
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="555" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20240508T020849SQUARE.png" group-title="Movies",South Station
+https://jmp2.uk/SamsungTVPlus/INBD4800001IR.m3u8
+#EXTINF:-1 tvg-id="666" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png" group-title="Movies",The Movie Club
+https://jmp2.uk/SamsungTVPlus/INBD21000016Y.m3u8
+#EXTINF:-1 tvg-id="243" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",Sony Pix
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="255" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="Movies",Movies Now
+http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="816" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network
+https://jmp2.uk/SamsungTVPlus/INBD13000205L.m3u8
+#EXTINF:-1 tvg-id="559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
+https://jmp2.uk/SamsungTVPlus/INBD1300021X3.m3u8
