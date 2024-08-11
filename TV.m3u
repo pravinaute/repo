@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 tvg-id="612" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",ABP Majha
 https://d35oztzk0vhm95.cloudfront.net/out/v1/2ec63396e10746e4a203657825ec0477/index_8.m3u8
 #EXTINF:-1 tvg-id="442" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="News",Zee 24 Taas
