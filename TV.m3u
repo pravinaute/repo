@@ -23,7 +23,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=28128&uid=15016&deviceMac=00:1A:79:3A
 http://tv.cloudcdn.me:80/live.ts?channelId=78841&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="414" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Entertainment",Zee Yuva
 http://tv.cloudcdn.me:80/live.ts?channelId=78816&uid=15016&deviceMac=00:1A:79:3A:58:5A
-#EXTINF:-1 tvg-id="1358" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies",Zee Talkies
+#EXTINF:-1 tvg-id="Zee.Talkies.HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies",Zee Talkies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=28131&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony
 http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=15016&deviceMac=00:1A:79:3A:58:5A
