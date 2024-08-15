@@ -43,7 +43,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=15016&deviceMac=00:1A:79:3A:5
 http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies",Sony Max 2
 http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=15016&deviceMac=00:1A:79:3A:58:5A
-#EXTINF:-1 tvg-id="165" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema
+#EXTINF:-1 tvg-id="Zee.Cinema.HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD
 http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="185" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",&Pictures
 http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15016&deviceMac=00:1A:79:3A:58:5A
