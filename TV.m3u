@@ -17,7 +17,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_7
 http://tv.cloudcdn.me:80/live.ts?channelId=28132&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="755" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Entertainment",Colors Marathi
 http://tv.cloudcdn.me:80/live.ts?channelId=28126&uid=15016&deviceMac=00:1A:79:3A:58:5A
-#EXTINF:-1 tvg-id="1207" tvg-logo="https://www.disneystar.com/media/3481/star_pravah_logo_1201x601_hd.png?width=1920&height=1080&mode=max&slimmage=true" group-title="Entertainment",Star Pravah 
+#EXTINF:-1 tvg-id="Star.Pravah.HD.in" tvg-logo="https://www.disneystar.com/media/3481/star_pravah_logo_1201x601_hd.png?width=1920&height=1080&mode=max&slimmage=true" group-title="Entertainment",Star Pravah HD
 http://tv.cloudcdn.me:80/live.ts?channelId=28128&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="1146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment",Sony Marathi
 http://tv.cloudcdn.me:80/live.ts?channelId=78841&uid=15016&deviceMac=00:1A:79:3A:58:5A
