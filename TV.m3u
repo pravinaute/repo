@@ -46,7 +46,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=15016&deviceMac=00:1A:79:3A:5
 http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="ts319" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD
 http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=15016&deviceMac=00:1A:79:3A:58:5A
-#EXTINF:-1 tvg-id="ts331" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",&Pictures HD
+#EXTINF:-1 tvg-id="185" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",&Pictures HD
 http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="ts333" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png" group-title="Movies",&Xplore HD
 http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=15016&deviceMac=00:1A:79:3A:58:5A
@@ -66,7 +66,7 @@ https://jmp2.uk/SamsungTVPlus/INBD4800001IR.m3u8
 https://jmp2.uk/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:-1 tvg-id="243" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",Sony Pix
 http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=15016&deviceMac=00:1A:79:3A:58:5A
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Star Movies HD
+#EXTINF:-1 tvg-id="ts418" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-movies-hd.gif" group-title="Movies",Star Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="255" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="Movies",Movies Now HD
 http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=15016&deviceMac=00:1A:79:3A:58:5A
