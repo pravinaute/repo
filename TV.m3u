@@ -47,7 +47,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=15016&deviceMac=00:1A:79:3A:5
 http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="185" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",&Pictures
 http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15016&deviceMac=00:1A:79:3A:58:5A
-#EXTINF:-1 tvg-id="1668" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png" group-title="Movies",Xplore
+#EXTINF:-1 tvg-id="ts333" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png" group-title="Movies",Xplore
 http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="ts308" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Movies",Star Gold HD
 http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15016&deviceMac=00:1A:79:3A:58:5A
