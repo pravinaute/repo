@@ -73,12 +73,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=15016&deviceMac=00:1A:79:3A:5
 #EXTINF:-1 tvg-id="816" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network
 https://jmp2.uk/SamsungTVPlus/INBD13000205L.m3u8
 #EXTINF:-1 tvg-id="559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
-https://jmp2.uk/SamsungTVPlus/INBD1300021X3.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="1226" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Nick_HD_Plus.png" group-title="Kids",Nick HD+
 http://tv.cloudcdn.me:80/live.ts?channelId=74624&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="ts454" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hd.gif" group-title="Sports",Star Sports 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=15016&deviceMac=00:1A:79:3A:58:5A
-#EXTINF:-1 tvg-id="ts459" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hindi-hd.gif" group-title="Sports",Star Sports 1 Hindi HD
 http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.gif" group-title="Sports",Star Sports Select 1 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=15016&deviceMac=00:1A:79:3A:58:5A
