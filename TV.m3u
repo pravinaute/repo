@@ -73,6 +73,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=15016&deviceMac=00:1A:79:3A:5
 http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
 http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=15016&deviceMac=00:1A:79:3A:58:5A
+#EXTINF:-1 tvg-id="544" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Nick_Junior.png" group-title="Kids",Nick Junior
+http://tv.cloudcdn.me:80/live.ts?channelId=252&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="1226" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Nick_HD_Plus.png" group-title="Kids",Nick HD+
 http://tv.cloudcdn.me:80/live.ts?channelId=74624&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="815" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic
