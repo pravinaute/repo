@@ -70,7 +70,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=15016&deviceMac=00:1A:79:3A:5
 #EXTINF:-1 tvg-id="255" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="Movies",Movies Now HD
 http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="816" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network
-https://jmp2.uk/SamsungTVPlus/INBD13000205L.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
 http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="1226" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Nick_HD_Plus.png" group-title="Kids",Nick HD+
