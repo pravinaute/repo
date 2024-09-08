@@ -87,3 +87,5 @@ http://tgaadi-web.tech/api/zee5.php?channel-name=Zeetalkieshd1
 http://tgaadi-web.tech/api/zee5.php?channel-name=Zeemarathihd1
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony HD1
 https://sliv.snehiptv-s15.workers.dev/15.m3u8
+#EXTINF:-1 tvg-id="ts319" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD1
+http://tgaadi-web.tech/api/zee5.php?channel-name=Zeecinemahd1
