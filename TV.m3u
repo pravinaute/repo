@@ -59,10 +59,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=15016&deviceMac=00:1A:79:3A:5
 http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="ts372" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies",Colors Cineplex Superhit
 http://tv.cloudcdn.me:80/live.ts?channelId=62413&uid=15016&deviceMac=00:1A:79:3A:58:5A
-#EXTINF:-1 tvg-id="555" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20240508T020849SQUARE.png" group-title="Movies",South Station
-https://jmp2.uk/SamsungTVPlus/INBD4800001IR.m3u8
-#EXTINF:-1 tvg-id="666" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png" group-title="Movies",The Movie Club
-https://jmp2.uk/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:-1 tvg-id="243" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",Sony Pix
 http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=15016&deviceMac=00:1A:79:3A:58:5A
 #EXTINF:-1 tvg-id="ts418" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-movies-hd.gif" group-title="Movies",Star Movies HD
