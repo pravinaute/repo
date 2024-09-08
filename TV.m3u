@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
 #EXTINF:-1 tvg-id="ABP.Majha.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",ABP Majha
-https://d35oztzk0vhm95.cloudfront.net/out/v1/2ec63396e10746e4a203657825ec0477/index_8.m3u8
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8
 #EXTINF:-1 tvg-id="Zee.24.Taas.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="News",Zee 24 Taas
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="232" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News",News18 Lokmat
@@ -8,7 +8,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokma
 #EXTINF:-1 tvg-id="617" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="177" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News
-https://d3njfzse3yrqgm.cloudfront.net/out/v1/4fdb5641e7fb444da44f0c39aa57ed19/index_4.m3u8
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720.m3u8
 #EXTINF:-1 tvg-id="504" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="173" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News",Aaj Tak
