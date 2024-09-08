@@ -83,3 +83,5 @@ http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=15016&deviceMac=00:1A:79:3A:5
 http://tgaadi-web.tech/api/zee5.php?channel-name=Andpictureshd1
 #EXTINF:-1 tvg-id="Zee.Talkies.HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies",Zee Talkies HD1
 http://tgaadi-web.tech/api/zee5.php?channel-name=Zeetalkieshd1
+#EXTINF:-1 tvg-id="1360" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Entertainment",Zee Marathi HD1
+http://tgaadi-web.tech/api/zee5.php?channel-name=Zeemarathihd1
