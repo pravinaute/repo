@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTINF:-1 tvg-id="1255" group-title="News",ABP Majha
-https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_majha/master.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_majha/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Zee.24.Taas.in" group-title="News",Zee 24 Taas
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="232" group-title="News",News18 Lokmat
@@ -8,7 +8,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Marathi_NW18_MOB/output01/News18_Mara
 #EXTINF:-1 tvg-id="617" group-title="News",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="177" group-title="News",ABP News
-https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
 #EXTINF:-1 tvg-id="504" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="173" group-title="News",Aaj Tak
