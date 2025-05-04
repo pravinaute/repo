@@ -32,6 +32,8 @@ https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="Sony PIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-pix-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="en", Sony PIX HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="Zee Cinema HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Zee Cinema HD
+http://mu3241218.oknirvana.club:8880/live/D12m3967/74185011/55210.ts
 #EXTINF:-1 tvg-id="25" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-movies-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-kadak-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", B4U Kadak
