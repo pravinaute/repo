@@ -18,29 +18,29 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 #EXTGRP:Entertainment
-#EXTINF:-1 tvg-id="128" tvg-name="SET HD" group-title="Entertainment", SET HD
+#EXTINF:-1 tvg-id="8" tvg-name="SET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-entertainment-television-hd-in.png" group-title="Entertainment" tvg-country="IN" tvg-language="hi", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="Sony SAB HD" group-title="Entertainment", Sony SAB HD
+#EXTINF:-1 tvg-id="9" tvg-name="Sony SAB HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-sab-hd-in.png" group-title="Entertainment" tvg-country="IN" tvg-language="hi", Sony SAB HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTGRP:Marathi
-#EXTINF:-1 tvg-id="310" tvg-name="Sony Marathi" group-title="Marathi", Sony Marathi
-https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-
 #EXTGRP:Movies
-#EXTINF:-1 tvg-id="312" tvg-name="Sony Max HD" group-title="Movies", Sony Max HD
+#EXTINF:-1 tvg-id="14" tvg-name="Sony Max HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-max-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Sony Max HD
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-id="338" tvg-name="Sony Max 2" group-title="Movies", Sony Max 2
+#EXTINF:-1 tvg-id="15" tvg-name="Sony Max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-max-2-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Sony Max 2
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-id="351" tvg-name="Sony Wah" group-title="Movies", Sony Wah
+#EXTINF:-1 tvg-id="16" tvg-name="Sony Wah" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-wah-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Sony Wah
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1 tvg-id="406" tvg-name="Sony PIX HD" group-title="Movies", Sony PIX HD
+#EXTINF:-1 tvg-id="17" tvg-name="Sony PIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-pix-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="en", Sony PIX HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 tvg-id="352" tvg-name="B4U Movies" group-title="Movies", B4U Movies
+#EXTINF:-1 tvg-id="25" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-movies-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="334" tvg-name="B4U Kadak" group-title="Movies", B4U Kadak
+#EXTINF:-1 tvg-id="26" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-kadak-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTGRP:Marathi
+#EXTINF:-1 tvg-id="31" tvg-name="Sony Marathi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-marathi-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Sony Marathi
+https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+
 #EXTGRP:Kids
-#EXTINF:-1 tvg-id="676" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
+#EXTINF:-1 tvg-id="40" tvg-name="Sony YAY!" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-yay-in.png" group-title="Kids" tvg-country="IN" tvg-language="hi", Sony YAY!
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
