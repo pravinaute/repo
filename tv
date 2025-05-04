@@ -1,35 +1,41 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-#EXTINF:-1 tvg-id="1255" group-title="News",ABP Majha
+#EXTM3U url-tvg="https://avkb.short.gy/tsepg.xml.gz"
+#PLAYLIST:My IPTV Channels
+#EXTGRP:News
+#EXTINF:-1 tvg-id="1" tvg-name="ABP Majha" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/abp-majha-in.png"group-title="News"tvg-country="IN"tvg-language="mr",ABP Majha
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_majha/master_1280.m3u8
-#EXTINF:-1 tvg-id="Zee.24.Taas.in" group-title="News",Zee 24 Taas
+#EXTINF:-1 tvg-id="2" tvg-name="Zee 24 Taas"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-24-taas-in.png" group-title="News"tvg-country="IN"tvg-language="mr",Zee 24 Taas
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="232" group-title="News",News18 Lokmat
+#EXTINF:-1 tvg-id="3" tvg-name="News18 Lokmat"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/news-18-lokmat-in.png" group-title="News"tvg-country="IN"tvg-language="mr",News18 Lokmat
 https://nw18live.cdn.jio.com/bpk-tv/News18_Marathi_NW18_MOB/output01/News18_Marathi_NW18_MOB-audio_98835_mar=98800-video=2702400.m3u8
-#EXTINF:-1 tvg-id="617" group-title="News",TV9 Marathi
+#EXTINF:-1 tvg-id="4" tvg-name="TV9 Marathi"tvg-logo="https://play-lh.googleusercontent.com/bV51CU9UdZ-9Jxs7d8LwC0EVARb3Ov9nW5UUjTyb--lCBspufPuSTgU_boDLswIp4AYd"group-title="News"tvg-country="IN"tvg-language="mr",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="177" group-title="News",ABP News
+#EXTINF:-1 tvg-id="5" tvg-name="ABP News"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/abp-news-in.png"group-title="News"tvg-country="IN"tvg-language="hi",ABP News
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
-#EXTINF:-1 tvg-id="504" group-title="News",Zee News
+#EXTINF:-1 tvg-id="6" tvg-name="Zee News"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-news-in.png"group-title="News"tvg-country="IN"tvg-language="hi",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-id="173" group-title="News",Aaj Tak
+#EXTINF:-1 tvg-id="7" tvg-name="Aaj Tak"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/aaj-tak-in.png"group-title="News"tvg-country="IN"tvg-language="hi",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="128" group-title="Entertainment",SET HD 
+#EXTGRP:Entertainment
+#EXTINF:-1 tvg-id="128" tvg-name="SET HD" group-title="Entertainment",SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF:-1 tvg-id="132" group-title="Entertainment",Sony SAB HD
+#EXTINF:-1 tvg-id="132" tvg-name="Sony SAB HD" group-title="Entertainment",Sony SAB HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF:-1 tvg-id="310" group-title="Marathi",Sony Marathi
+#EXTGRP:Marathi
+#EXTINF:-1 tvg-id="310" tvg-name="Sony Marathi" group-title="Marathi",Sony Marathi
 https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 tvg-id="312" group-title="Movies",Sony Max HD
+#EXTGRP:Movies
+#EXTINF:-1 tvg-id="312" tvg-name="Sony Max HD" group-title="Movies",Sony Max HD
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-id="338" group-title="Movies",Sony Max 2
+#EXTINF:-1 tvg-id="338" tvg-name="Sony Max 2" group-title="Movies",Sony Max 2
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-id="351" group-title="Movies",Sony Wah
+#EXTINF:-1 tvg-id="351" tvg-name="Sony Wah" group-title="Movies",Sony Wah
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1 tvg-id="406" group-title="Movies",Sony PIX HD
+#EXTINF:-1 tvg-id="406" tvg-name="Sony PIX HD" group-title="Movies",Sony PIX HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 tvg-id="352" group-title="Movies",B4U Movies
+#EXTINF:-1 tvg-id="352" tvg-name="B4U Movies" group-title="Movies",B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="334" group-title="Movies",B4U Kadak
+#EXTINF:-1 tvg-id="334" tvg-name="B4U Kadak" group-title="Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="676" group-title="Kids",Sony YAY!
+#EXTGRP:Kids
+#EXTINF:-1 tvg-id="676" tvg-name="Sony YAY!" group-title="Kids",Sony YAY!
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
