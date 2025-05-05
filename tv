@@ -44,6 +44,8 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTGRP:Marathi
+#EXTINF:-1 tvg-id="30" tvg-name="Zee Yuva" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-yuva-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Zee Yuva
+http://tm-tl-ml.packetcdn.me:8372/8be1228d28529b5dbfb5bf3f21ca6b184b6eaa689f/index.m3u8?token=2f456183277f2d6c2319d1626bf57ff3516f400005a1838df5928fb60ce2dd91f9bb8ce5394f48407068e29935bf718307aad1846c08ab72f1ddb59f678db5c733e969d0e4-583055ea68256e6ba5b2ab80b90f6d7c
 #EXTINF:-1 tvg-id="31" tvg-name="Sony Marathi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-marathi-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Sony Marathi
 https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="Zee Talkies HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-talkies-hd-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Zee Talkies HD
