@@ -32,12 +32,6 @@ https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="Sony PIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-pix-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="en", Sony PIX HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="Zee Cinema HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Zee Cinema HD
-http://mu3241218.oknirvana.club:8880/live/D12m3967/74185011/55210.ts
-#EXTINF:-1 tvg-id="19" tvg-name="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/and-pictures-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", &Pictures HD
-http://mu3241218.oknirvana.club:8880/live/D12m3967/74185011/1964.ts
-#EXTINF:-1 tvg-id="20" tvg-name="Star Gold HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-gold-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Star Gold HD
-http://mu3241218.oknirvana.club:8880/live/D12m3967/74185011/55257.ts
 #EXTINF:-1 tvg-id="21" tvg-name="MBC Bollywood" tvg-logo="https://i.ibb.co/0pfqgTRL/1000002315-removebg-preview.png" group-title="Movies" tvg-country="IN" tvg-language="hi", MBC Bollywood HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-movies-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", B4U Movies
@@ -46,12 +40,8 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTGRP:Marathi
-#EXTINF:-1 tvg-id="30" tvg-name="Zee Yuva" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-yuva-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Zee Yuva
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529b5dbfb5bf3f21ca6b184b6eaa689f/index.m3u8?token=2f456183277f2d6c2319d1626bf57ff3516f400005a1838df5928fb60ce2dd91f9bb8ce5394f48407068e29935bf718307aad1846c08ab72f1ddb59f678db5c733e969d0e4-583055ea68256e6ba5b2ab80b90f6d7c
 #EXTINF:-1 tvg-id="31" tvg-name="Sony Marathi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-marathi-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Sony Marathi
 https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="Zee Talkies HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-talkies-hd-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Zee Talkies HD
-http://mu3241218.oknirvana.club:8880/live/D12m3967/74185011/55159.ts
 
 #EXTGRP:Kids
 #EXTINF:-1 tvg-id="40" tvg-name="Sony YAY!" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-yay-in.png" group-title="Kids" tvg-country="IN" tvg-language="hi", Sony YAY!
