@@ -50,3 +50,5 @@ https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTGRP:Kids
 #EXTINF:-1 tvg-id="40" tvg-name="Sony YAY!" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-yay-in.png" group-title="Kids" tvg-country="IN" tvg-language="hi", Sony YAY!
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/disney-channel-int.png" group-title="Kids" tvg-country="IN" tvg-language="hi", Disney Channel
+http://116.90.120.149:8000/play/a0bx/index.m3u8
