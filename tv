@@ -22,6 +22,10 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_7
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Sony SAB HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-sab-hd-in.png" group-title="Entertainment" tvg-country="IN" tvg-language="hi", Sony SAB HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Zee TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-tv-hd-in.png" group-title="Entertainment" tvg-country="IN" tvg-language="hi", Zee TV HD
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetvhd
 
 #EXTGRP:Movies
 #EXTINF:-1 tvg-id="14" tvg-name="Sony Max HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-max-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Sony Max HD
@@ -54,7 +58,7 @@ https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u
 #EXTGRP:Marathi
 #EXTINF:-1 tvg-id="31" tvg-name="Sony Marathi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-marathi-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Sony Marathi
 https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="Zee Marathi HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-marathi-hd-in.png" group-title="Entertainment" tvg-country="IN" tvg-language="mr", Zee Marathi HD
+#EXTINF:-1 tvg-id="32" tvg-name="Zee Marathi HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-marathi-hd-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Zee Marathi HD
 #EXTVLCOPT:http-referrer="https://onezoo.net"
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://playyonogames.in/z5/stream.m3u8?id=0-9-zeemarathi
