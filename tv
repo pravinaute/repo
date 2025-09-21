@@ -54,6 +54,9 @@ https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u
 #EXTGRP:Marathi
 #EXTINF:-1 tvg-id="31" tvg-name="Sony Marathi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-marathi-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Sony Marathi
 https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="Zee Talkies HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-talkies-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="mr", Zee Talkies HD
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 
 #EXTGRP:Kids
 #EXTINF:-1 tvg-id="40" tvg-name="Sony YAY!" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-yay-in.png" group-title="Kids" tvg-country="IN" tvg-language="hi", Sony YAY!
