@@ -11,7 +11,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Marathi_NW18_MOB/output01/News18_Mara
 #EXTINF:-1 tvg-id="4" tvg-name="TV9 Marathi" tvg-logo="https://play-lh.googleusercontent.com/bV51CU9UdZ-9Jxs7d8LwC0EVARb3Ov9nW5UUjTyb--lCBspufPuSTgU_boDLswIp4AYd" group-title="News" tvg-country="IN" tvg-language="mr", TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="ABP News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/abp-news-in.png" group-title="News" tvg-country="IN" tvg-language="hi", ABP News
-https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Zee News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-news-in.png" group-title="News" tvg-country="IN" tvg-language="hi", Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Aaj Tak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/aaj-tak-in.png" group-title="News" tvg-country="IN" tvg-language="hi", Aaj Tak
