@@ -32,7 +32,5 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTGRP:Marathi
-#EXTINF:-1 tvg-id="31" tvg-name="Zee Chitramandir" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZZ40.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Zee Chitramandir
-http://103.78.149.54:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="Shemaroo Marathi Bana" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Shemaroo Marathi Bana
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
