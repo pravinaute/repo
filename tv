@@ -16,65 +16,22 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Aaj Tak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/aaj-tak-in.png" group-title="News" tvg-country="IN" tvg-language="hi", Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
-
-#EXTGRP:Entertainment
-#EXTINF:-1 tvg-id="8" tvg-name="SET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-entertainment-television-hd-in.png" group-title="Entertainment" tvg-country="IN" tvg-language="hi", SET HD
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="Sony SAB HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-sab-hd-in.png" group-title="Entertainment" tvg-country="IN" tvg-language="hi", Sony SAB HD
-https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="Zee TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-tv-hd-in.png" group-title="Entertainment" tvg-country="IN" tvg-language="hi", Zee TV HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetvhd
-
 #EXTGRP:Movies
-#EXTINF:-1 tvg-id="11" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Zee South Flix
-https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Zee Dil Se" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Zee Dil Se
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="Zee Cine Classic" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="Zee Dil Se" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Zee Dil Se
-https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Sony Max HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-max-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Sony Max HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="Sony Max 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-max-2-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Sony Max 2
-https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Sony Wah" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-wah-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Sony Wah
-https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="Sony PIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-pix-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="en", Sony PIX HD
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="Star Gold HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-gold-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Star Gold HD
-https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3172
-#EXTINF:-1 tvg-id="19" tvg-name="Star Gold Select HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-gold-select-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Star Gold Select HD
-https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3176
-#EXTINF:-1 tvg-id="20" tvg-name="Zee Cinema HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Zee Cinema HD
-https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/and-pictures-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", &Pictures HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="22" tvg-name="&Xplor HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="Movies" tvg-country="IN" tvg-language="hi", &Xplor HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-209
+#EXTINF:-1 tvg-id="13" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies" tvg-country="IN" tvg-language="hi", Zee South Flix
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Box Cinema" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Movies" tvg-country="IN" tvg-language="en", Box Cinema
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=kU8ru-Yl4zG
 #EXTINF:-1 tvg-id="25" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-movies-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-kadak-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTGRP:Marathi
-#EXTINF:-1 tvg-id="31" tvg-name="Sony Marathi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-marathi-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Sony Marathi
-https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="Zee Marathi HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-marathi-hd-in.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Zee Marathi HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeemarathi
-#EXTINF:-1 tvg-id="33" tvg-name="Zee Talkies HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-talkies-hd-in.png" group-title="Movies" tvg-country="IN" tvg-language="mr", Zee Talkies HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies
-
-#EXTGRP:Kids
-#EXTINF:-1 tvg-id="40" tvg-name="Sony YAY!" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-yay-in.png" group-title="Kids" tvg-country="IN" tvg-language="hi", Sony YAY!
-https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/disney-channel-int.png" group-title="Kids" tvg-country="IN" tvg-language="hi", Disney Channel
-http://116.90.120.149:8000/play/a0bx/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="Zee Chitramandir" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZZ40.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Zee Chitramandir
+http://103.78.149.54:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="Shemaroo Marathi Bana" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Shemaroo Marathi Bana
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
