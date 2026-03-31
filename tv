@@ -30,6 +30,10 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-kadak-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi", B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="South Station" tvg-logo="" group-title="Movies" tvg-country="IN" tvg-language="hi", South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="The Movie Club" tvg-logo="" group-title="Movies" tvg-country="IN" tvg-language="hi", The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
 #EXTGRP:Marathi
 #EXTINF:-1 tvg-id="32" tvg-name="Shemaroo Marathi Bana" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Shemaroo Marathi Bana
