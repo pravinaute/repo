@@ -40,3 +40,5 @@ http://103.161.153.165:8000/play/a05u/index.m3u8
 #EXTGRP:Marathi
 #EXTINF:-1 tvg-id="32" tvg-name="Shemaroo Marathi Bana" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="Marathi" tvg-country="IN" tvg-language="mr", Shemaroo Marathi Bana
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="O'Romeo" tvg-logo="" group-title="Marathi" tvg-country="IN" tvg-language="mr", O'Romeo
+https://srv317.paulted.store/s4/0/d6357b539fc2bb3d8ca32454d96c4020c3166869ad50efb785bffc427451465a/5LpLZKFuzO5TS7YUkIZX1w/1775268343/storage8/movies/1774852371-31969779-o-romeo-2026/f360b8a40ec5c7293f3c75fe1f630b2a.mp4/index.m3u8
