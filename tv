@@ -1,96 +1,89 @@
 #EXTM3U url-tvg="https://avkb.short.gy/tsepg.xml.gz"
-#PLAYLIST:My IPTV Channels
 
-#EXTGRP:News
-#EXTINF:-1 tvg-id="1" tvg-name="ABP Majha" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/abp-majha-in.png" group-title="News" tvg-country="IN" tvg-language="mr",ABP Majha
+############################################
+# LIVE TV — NEWS
+############################################
+
+#EXTINF:-1 tvg-id="abpmajha.in" tvg-name="ABP Majha" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/abp-majha-in.png" group-title="News",ABP Majha
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master_1280.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="Zee 24 Taas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-24-taas-in.png" group-title="News" tvg-country="IN" tvg-language="mr",Zee 24 Taas
+#EXTINF:-1 tvg-id="zee24taas.in" tvg-name="Zee 24 Taas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-24-taas-in.png" group-title="News",Zee 24 Taas
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="TV9 Marathi" tvg-logo="https://play-lh.googleusercontent.com/bV51CU9UdZ-9Jxs7d8LwC0EVARb3Ov9nW5UUjTyb--lCBspufPuSTgU_boDLswIp4AYd" group-title="News" tvg-country="IN" tvg-language="mr",TV9 Marathi
+#EXTINF:-1 tvg-id="tv9marathi.in" tvg-name="TV9 Marathi" tvg-logo="https://play-lh.googleusercontent.com/bV51CU9UdZ-9Jxs7d8LwC0EVARb3Ov9nW5UUjTyb--lCBspufPuSTgU_boDLswIp4AYd" group-title="News",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="ABP News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/abp-news-in.png" group-title="News" tvg-country="IN" tvg-language="hi",ABP News
+#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/abp-news-in.png" group-title="News",ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="Zee News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-news-in.png" group-title="News" tvg-country="IN" tvg-language="hi",Zee News
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-news-in.png" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="Aaj Tak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/aaj-tak-in.png" group-title="News" tvg-country="IN" tvg-language="hi",Aaj Tak
+#EXTINF:-1 tvg-id="aajtak.in" tvg-name="Aaj Tak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/aaj-tak-in.png" group-title="News",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 
-#EXTGRP:Movies
-#EXTINF:-1 tvg-id="11" tvg-name="Zee Dil Se" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Movies" tvg-country="IN" tvg-language="hi",Zee Dil Se
+############################################
+# LIVE TV — MOVIES
+############################################
+
+#EXTINF:-1 tvg-id="zeedilse.in" tvg-name="Zee Dil Se" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Movies",Zee Dil Se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="Zee Cine Classic" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies" tvg-country="IN" tvg-language="hi",Zee Cine Classic
+#EXTINF:-1 tvg-id="zeecineclassic.in" tvg-name="Zee Cine Classic" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies" tvg-country="IN" tvg-language="hi",Zee South Flix
+#EXTINF:-1 tvg-id="zeesouthflix.in" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-name="Box Cinema" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Movies" tvg-country="IN" tvg-language="en",Box Cinema
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=kU8ru-Yl4zG
+#EXTINF:-1 tvg-id="boxcinema.in" tvg-name="Box Cinema" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Movies",Box Cinema
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
-#EXTINF:-1 tvg-id="25" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-movies-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi",B4U Movies
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-movies-in.png" group-title="Movies",B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="26" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-kadak-in.png" group-title="Movies" tvg-country="IN" tvg-language="hi",B4U Kadak
+#EXTINF:-1 tvg-id="b4ukadak.in" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-kadak-in.png" group-title="Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="27" tvg-name="South Station" tvg-logo="" group-title="Movies" tvg-country="IN" tvg-language="hi",South Station
+#EXTINF:-1 tvg-id="southstation.in" tvg-name="South Station" group-title="Movies",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-name="The Movie Club" tvg-logo="" group-title="Movies" tvg-country="IN" tvg-language="hi",The Movie Club
+#EXTINF:-1 tvg-id="themovieclub.in" tvg-name="The Movie Club" group-title="Movies",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="&Pictures HD" tvg-logo="" group-title="Movies" tvg-country="IN" tvg-language="hi",&Pictures HD
-http://103.161.153.165:8000/play/a05u/index.m3u8
 
+############################################
+# VOD — MOVIES (OTT Navigator)
+############################################
 
-#EXTGRP:VOD
-#EXTINF:-1 type="movie" tvg-id="movie.romeo2026" tvg-name="Romeo (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXBa_ltdUITrUvYv3PtffFkkvg3OHqrQwVQ5Ab4Xh93IBprQK7WW18nLwE&s=10" group-title="VOD",Romeo (2026)
+#EXTINF:-1 type="movie" tvg-id="romeo.2026" tvg-name="Romeo (2026)" group-title="VOD",Romeo (2026)
 https://srv317.paulted.store/s4/0/d6357b539fc2bb3d8ca32454d96c4020c3166869ad50efb785bffc427451465a/5LpLZKFuzO5TS7YUkIZX1w/1775268343/storage8/movies/1774852371-31969779-o-romeo-2026/f360b8a40ec5c7293f3c75fe1f630b2a.mp4/index.m3u8
 
 
-#EXTGRP:Series
+############################################
+# SERIES — OTT NAVIGATOR FORMAT
+############################################
 
-#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="1",Maamla Legal Hai 2024 Hindi S01 E01
-https://st19.febspot.com/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTc3NTE4ODU4ODtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjQwOiIvdmlkZW9zLzIwMDcwMDAvMjAwNzY1Mi8yMDA3NjUyXzcyMHAubXA0IjtzOjI6ImN2IjtzOjMyOiI0OGM1M2E1ODJmYjcxMGRmMmU1NTAxYTVhMjM5ZTUzNyI7fQ%3D%3D
+#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Series" season="1" episode="1",Maamla Legal Hai S01E01
+https://st19.febspot.com/remote_control.php?file=EP1
 
-#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="2",Maamla Legal Hai 2024 Hindi S01 E02
-https://st19.febspot.com/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTc3NTE4NzEzMDtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjQwOiIvdmlkZW9zLzIwMDcwMDAvMjAwNzY4Ni8yMDA3Njg2XzcyMHAubXA0IjtzOjI6ImN2IjtzOjMyOiI0ZDhjM2YwZmRkZWRiMTkxYThjZjU4ZmU2MTdiZTljMCI7fQ%3D%3D
+#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Series" season="1" episode="2",Maamla Legal Hai S01E02
+https://st19.febspot.com/remote_control.php?file=EP2
 
-#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="3",Maamla Legal Hai 2024 Hindi S01 E03
-https://st19.febspot.com/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTc3NTE4ODY1NztzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjQwOiIvdmlkZW9zLzIwMDcwMDAvMjAwNzcxNC8yMDA3NzE0XzcyMHAubXA0IjtzOjI6ImN2IjtzOjMyOiIxNWMyMjkxNTgxMTFiYjVhZTI3NjFiNjg5N2VjNzIyMSI7fQ%3D%3D
+#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Series" season="1" episode="3",Maamla Legal Hai S01E03
+https://st19.febspot.com/remote_control.php?file=EP3
 
-#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="1",Maamla Legal Hai 2024 Hindi S01 E04
-https://st19.febspot.com/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTc3NTE4ODc3MTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjQwOiIvdmlkZW9zLzIwMDcwMDAvMjAwNzcyMi8yMDA3NzIyXzcyMHAubXA0IjtzOjI6ImN2IjtzOjMyOiI5MTk5NjhlNzM3NDYyNmVlYzU0ZDgyZmFhOWE0ODBiNyI7fQ%3D%3D
+#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Series" season="1" episode="4",Maamla Legal Hai S01E04
+https://st19.febspot.com/remote_control.php?file=EP4
 
-#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="1",Maamla Legal Hai 2024 Hindi S01 E05
-https://st19.febspot.com/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTc3NTE4ODgwNjtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjQwOiIvdmlkZW9zLzIwMDcwMDAvMjAwNzczOS8yMDA3NzM5XzcyMHAubXA0IjtzOjI6ImN2IjtzOjMyOiIwMjA1NzNkMTU0NWNjZDBkMjQ4NWE0Y2M1Y2ZkZjliMCI7fQ%3D%3D
+#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Series" season="1" episode="5",Maamla Legal Hai S01E05
+https://st19.febspot.com/remote_control.php?file=EP5
 
-#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="1",Maamla Legal Hai 2024 Hindi S01 E06
-https://st19.febspot.com/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTc3NTE4ODg0MTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjQwOiIvdmlkZW9zLzIwMDcwMDAvMjAwNzc0NC8yMDA3NzQ0XzcyMHAubXA0IjtzOjI6ImN2IjtzOjMyOiI4ZTM5MzczMmY1NjVhNWYwZGQyZmQyY2VmNGY4ZmNmYyI7fQ%3D%3D
+#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Series" season="1" episode="6",Maamla Legal Hai S01E06
+https://st19.febspot.com/remote_control.php?file=EP6
 
-#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="1",Maamla Legal Hai 2024 Hindi S01 E07
-https://st19.febspot.com/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTc3NTE4ODkxMDtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjQwOiIvdmlkZW9zLzIwMDcwMDAvMjAwNzc1Ni8yMDA3NzU2XzcyMHAubXA0IjtzOjI6ImN2IjtzOjMyOiJhNjg2NTFmNzIwYjk5NzliYjA3NjRiNDUyYzAwZTAxMSI7fQ%3D%3D
+#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Series" season="1" episode="7",Maamla Legal Hai S01E07
+https://st19.febspot.com/remote_control.php?file=EP7
 
-#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="1",Maamla Legal Hai 2024 Hindi S01 E08
-https://st19.febspot.com/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTc3NTE4ODkyOTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjQwOiIvdmlkZW9zLzIwMDcwMDAvMjAwNzc2OS8yMDA3NzY5XzcyMHAubXA0IjtzOjI6ImN2IjtzOjMyOiIwYjNmNjQ0MDk3M2M0MDAwMGNhZmEyOWVhZGE2OWVlYSI7fQ%3D%3D
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Series" season="1" episode="8",Maamla Legal Hai S01E08
+https://st19.febspot.com/remote_control.php?file=EP8
