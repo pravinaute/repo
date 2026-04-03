@@ -59,8 +59,8 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 type="movie" tvg-name="Romeo (2026)" group-title="VOD Movies",Romeo (2026)
 https://srv317.paulted.store/s4/0/d6357b539fc2bb3d8ca32454d96c4020c3166869ad50efb785bffc427451465a/5LpLZKFuzO5TS7YUkIZX1w/1775268343/storage8/movies/1774852371-31969779-o-romeo-2026/f360b8a40ec5c7293f3c75fe1f630b2a.mp4/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-name="Mamla" group-title="VOD Movies",Mamla
-https://30xplewoo.mxcontent.net/v2/0v7q7xn1a07pdo.mp4?s=YIc6rLMUTOf8S2okInBb-w&e=1775250038&_t=1775230462
+#EXTINF:-1 type="movie" tvg-name="Dhol" group-title="VOD Movies",Dhol
+https://vod-content.plexvideos.com/streams/62bf1b945e5872e950b3be93/bf1317d4-480b-4991-ba89-86203d20436b/stream_3.m3u8
 
 ############################################
 # SERIES — OTT NAVIGATOR FORMAT
