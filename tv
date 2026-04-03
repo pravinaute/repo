@@ -53,3 +53,15 @@ http://103.161.153.165:8000/play/a05u/index.m3u8
 #EXTGRP:VOD
 #EXTINF:-1 type="movie" tvg-id="movie.romeo2026" tvg-name="Romeo (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXBa_ltdUITrUvYv3PtffFkkvg3OHqrQwVQ5Ab4Xh93IBprQK7WW18nLwE&s=10" group-title="VOD",Romeo (2026)
 https://srv317.paulted.store/s4/0/d6357b539fc2bb3d8ca32454d96c4020c3166869ad50efb785bffc427451465a/5LpLZKFuzO5TS7YUkIZX1w/1775268343/storage8/movies/1774852371-31969779-o-romeo-2026/f360b8a40ec5c7293f3c75fe1f630b2a.mp4/index.m3u8
+
+
+#EXTGRP:Series
+
+#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="1",Maamla Legal Hai 2024 Hindi S01 E01
+<EP1_URL>
+
+#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="2",Maamla Legal Hai 2024 Hindi S01 E02
+https://st19.febspot.com/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTc3NTE4NzEzMDtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjQwOiIvdmlkZW9zLzIwMDcwMDAvMjAwNzY4Ni8yMDA3Njg2XzcyMHAubXA0IjtzOjI6ImN2IjtzOjMyOiI0ZDhjM2YwZmRkZWRiMTkxYThjZjU4ZmU2MTdiZTljMCI7fQ%3D%3D
+
+#EXTINF:-1 type="series" tvg-id="series.demo" tvg-name="Demo Web Series" group-title="Series" season="1" episode="3",Maamla Legal Hai 2024 Hindi S01 E03
+<EP3_URL>
