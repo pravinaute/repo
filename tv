@@ -27,22 +27,5 @@ https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-id="themovieclub.in" tvg-name="The Movie Club" group-title="Movies",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-
 #EXTINF:-1 type="movie" tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" group-title="Movies",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
-
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="1",Maamla Legal Hai S01E01
-
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="2",Maamla Legal Hai S01E02
-
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="3",Maamla Legal Hai S01E03
-
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="4",Maamla Legal Hai S01E04
-
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="5",Maamla Legal Hai S01E05
-
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="6",Maamla Legal Hai S01E06
-
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="7",Maamla Legal Hai S01E07
-
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="8",Maamla Legal Hai S01E08
