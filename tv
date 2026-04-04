@@ -49,6 +49,9 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" group-title="Movies" tvg-type="movie",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
 
+#EXTINF:-1 tvg-name="Bullet Train Explosion 2025" tvg-logo="https://sd1.sdmoviespoint.courses/wp-content/uploads/2025/04/Bullet-Train-Explosion-2025-Full-Movie-Download-Free-HD-Web-DL.webp" group-title="Movies" tvg-type="movie",Bullet Train Explosion 2025
+https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Bull3t.Tr41n.3xpl0510n.25.Web-DL.1080p.sdm0v13sp01nt.diy.mkv
+
 # ================= VOD WEB SERIES =================
 
 #EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="TV Series" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="1",01. Without Fear or Favour
