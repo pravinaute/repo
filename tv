@@ -49,46 +49,43 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" group-title="Movies" tvg-type="movie",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
 
-#EXTINF:-1 tvg-name="Bullet Train Explosion 2025" tvg-logo="https://sd1.sdmoviespoint.courses/wp-content/uploads/2025/04/Bullet-Train-Explosion-2025-Full-Movie-Download-Free-HD-Web-DL.webp" group-title="Movies" tvg-type="movie",Bullet Train Explosion 2025
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Bull3t.Tr41n.3xpl0510n.25.Web-DL.1080p.sdm0v13sp01nt.diy.mkv
-
 # ================= VOD WEB SERIES =================
 
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="TV Series" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="1",01. Without Fear or Favour
+#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S1" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="1",01. Without Fear or Favour
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E01.Without.Fear.or.Favour.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
 
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="TV Series" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="2",02. Unbiased
+#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S1" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="2",02. Unbiased
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E02.Unbiased.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
 
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="TV Series" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="3",03. Balanced
+#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S1" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="3",03. Balanced
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E03.Balanced.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
 
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="TV Series" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="4",04. Emotional Attachment
+#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S1" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="4",04. Emotional Attachment
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E04.Emotional.Attachment.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
 
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="TV Series" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="5",05. Juvenile
+#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S1" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="5",05. Juvenile
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E05.Juvenile.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
 
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="TV Series" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="6",06. Act of God
+#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S1" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="6",06. Act of God
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E06.Act.of.God.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
 
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="TV Series" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="7",07. Compromise
+#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S1" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="7",07. Compromise
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E07.Compromise.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
 
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="TV Series" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="8",08. Beyond Reform
+#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S1" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="8",08. Beyond Reform
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E08.Beyond.Reform.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
 
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp Season 1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="1",01. Sankalp
+#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="1",01. Sankalp
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E01.Sankalp.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
 
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp Season 1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="2",02. Guru Dakshina
+#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="2",02. Guru Dakshina
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E02.Guru.Dakshina.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
 
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp Season 1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="3",03. Masterstroke
+#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="3",03. Masterstroke
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E03.Masterstroke.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
 
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp Season 1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="4",04. Apmaan
+#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="4",04. Apmaan
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E04.Apmaan.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
 
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp Season 1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="5",05. Sendh
+#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="5",05. Sendh
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E05.Sendh.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
