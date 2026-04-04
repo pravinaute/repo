@@ -29,3 +29,5 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 type="movie" tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" group-title="Movies",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
+#EXTINF:-1 type="series" tvg-name="Yeh Meri Family" tvg-logo="" group-title="Web Series",Yeh Meri Family
+https://d3sgzbosmwirao.cloudfront.net/video/637eda9d371fa6ddeac209e765b524413fa1cdd15e34d0da6ece4fc9c6706218/3/hls/subtitle_eng.m3u8
