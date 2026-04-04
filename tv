@@ -56,11 +56,11 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 # VOD — MOVIES
 ############################################
 
-#EXTINF:-1 type="movie" tvg-name="Romeo (2026)" group-title="VOD Movies",Romeo (2026)
+#EXTINF:-1 type="movie" tvg-name="Romeo (2026)" group-title="Movies",Romeo (2026)
 https://srv317.paulted.store/s4/0/d6357b539fc2bb3d8ca32454d96c4020c3166869ad50efb785bffc427451465a/5LpLZKFuzO5TS7YUkIZX1w/1775268343/storage8/movies/1774852371-31969779-o-romeo-2026/f360b8a40ec5c7293f3c75fe1f630b2a.mp4/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-name="Online Binline" tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fa%2Fgracenote%2Fa43fde91cedacaee5e830e56e8e8d7b2.jpg" group-title="VOD Movies",Online Binline
-https://vod-content.plexvideos.com/streams/62d04e19700e44e586fdcad6/bd15cd99-0007-426c-8cb5-76b5d877cc1f/stream_9.m3u8
+#EXTINF:-1 type="movie" tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" group-title="Movies",Doorbeen
+https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
 
 ############################################
 # SERIES — OTT NAVIGATOR FORMAT
