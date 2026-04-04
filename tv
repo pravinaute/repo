@@ -56,36 +56,36 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 # VOD — MOVIES
 ############################################
 
-#EXTINF:-1 type="Movies" tvg-name="Romeo (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdiEc28nPPOy-4fLMxri6AGDCDCw0-AoK2IMOdVSN95KfEqtNTDC2WkyA&s" group-title="Movies",Romeo (2026)
+#EXTINF:-1 tvg-type="movie" tvg-name="Romeo (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdiEc28nPPOy-4fLMxri6AGDCDCw0-AoK2IMOdVSN95KfEqtNTDC2WkyA&s" group-title="Movies",Romeo (2026)
 https://srv317.paulted.store/s4/0/d6357b539fc2bb3d8ca32454d96c4020c3166869ad50efb785bffc427451465a/5LpLZKFuzO5TS7YUkIZX1w/1775268343/storage8/movies/1774852371-31969779-o-romeo-2026/f360b8a40ec5c7293f3c75fe1f630b2a.mp4/index.m3u8
 
-#EXTINF:-1 type="Movies" tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" group-title="Movies",Doorbeen
+#EXTINF:-1 tvg-type="movie" tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" group-title="Movies",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
 
 ############################################
 # SERIES — OTT NAVIGATOR FORMAT
 ############################################
 
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="1",Maamla Legal Hai S01E01
+#EXTINF:-1 tvg-type="series" tvg-id="maamla.legal.hai" series-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="1",Maamla Legal Hai S01E01
 https://gfve4dog1.mxcontent.net/v2/gn8q8331h88996.mp4?s=-B_wxdnYDTa7HKdgt2VM1w&e=1775249462&_t=1775234326
 
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="2",Maamla Legal Hai S01E02
+#EXTINF:-1 tvg-type="series" tvg-id="maamla.legal.hai" series-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="2",Maamla Legal Hai S01E02
 https://st19.febspot.com/remote_control.php?file=EP2
 
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="3",Maamla Legal Hai S01E03
+#EXTINF:-1 tvg-type="series" tvg-id="maamla.legal.hai" series-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="3",Maamla Legal Hai S01E03
 https://st19.febspot.com/remote_control.php?file=EP3
 
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="4",Maamla Legal Hai S01E04
+#EXTINF:-1 tvg-type="series" tvg-id="maamla.legal.hai" series-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="4",Maamla Legal Hai S01E04
 https://st19.febspot.com/remote_control.php?file=EP4
 
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="5",Maamla Legal Hai S01E05
+#EXTINF:-1 tvg-type="series" tvg-id="maamla.legal.hai" series-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="5",Maamla Legal Hai S01E05
 https://st19.febspot.com/remote_control.php?file=EP5
 
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="6",Maamla Legal Hai S01E06
+#EXTINF:-1 tvg-type="series" tvg-id="maamla.legal.hai" series-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="6",Maamla Legal Hai S01E06
 https://st19.febspot.com/remote_control.php?file=EP6
 
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="7",Maamla Legal Hai S01E07
+#EXTINF:-1 tvg-type="series" tvg-id="maamla.legal.hai" series-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="7",Maamla Legal Hai S01E07
 https://st19.febspot.com/remote_control.php?file=EP7
 
-#EXTINF:-1 type="series" tvg-id="maamla.legal.hai" tvg-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="8",Maamla Legal Hai S01E08
+#EXTINF:-1 tvg-type="series" tvg-id="maamla.legal.hai" series-name="Maamla Legal Hai" group-title="Web Series" season="1" episode="8",Maamla Legal Hai S01E08
 https://st19.febspot.com/remote_control.php?file=EP8
