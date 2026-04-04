@@ -29,5 +29,19 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 type="movie" tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" group-title="Movies",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
-#EXTINF:-1 type="series" tvg-name="Yeh Meri Family" tvg-logo="" group-title="Web Series",Yeh Meri Family
+#EXTINF:-1 tvg-name="Maamla Legal Hai S02E01" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Web Series",Maamla Legal Hai S02E01
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E01.Without.Fear.or.Favour.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
+#EXTINF:-1 tvg-name="Maamla Legal Hai S02E02" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Web Series",Maamla Legal Hai S02E02
+https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E02.Unbiased.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
+#EXTINF:-1 tvg-name="Maamla Legal Hai S02E03" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Web Series",Maamla Legal Hai S02E03
+https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E03.Balanced.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
+#EXTINF:-1 tvg-name="Maamla Legal Hai S02E04" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Web Series",Maamla Legal Hai S02E04
+https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E04.Emotional.Attachment.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
+#EXTINF:-1 tvg-name="Maamla Legal Hai S02E05" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Web Series",Maamla Legal Hai S02E05
+https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E05.Juvenile.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
+#EXTINF:-1 tvg-name="Maamla Legal Hai S02E06" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Web Series",Maamla Legal Hai S02E06
+https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E06.Act.of.God.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
+#EXTINF:-1 tvg-name="Maamla Legal Hai S02E07" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Web Series",Maamla Legal Hai S02E07
+https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E07.Compromise.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
+#EXTINF:-1 tvg-name="Maamla Legal Hai S02E08" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Web Series",Maamla Legal Hai S02E08
+https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E08.Beyond.Reform.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
