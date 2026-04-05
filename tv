@@ -48,8 +48,12 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
 #EXTINF:-1 tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" tvg-type="movie",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
+
 #EXTINF:-1 tvg-name="Kabir Singh 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjU5ZTljMDEtNzg5Ny00OTliLWI3NmYtOTE1ZDg3NTNkMDM0XkEyXkFqcGc@._V1_SX400.jpg" tvg-type="movie",Kabir Singh 2019
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/K4b1r.51ngh.2019.1080p.AMZN.WEB-DL.H.264.Hindi.AAC2.0.Sdmoviespoint.makeup.mkv
+
+#EXTINF:-1 tvg-name="O’ Romeo 2026" tvg-logo="https://image.tmdb.org/t/p/w500/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" tvg-type="movie",O’ Romeo 2026
+https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Oromeo.2026.1080P.Amzn.Web-Dl.Hindi.Ddp5.1.H.264-Sdmoviespoint.courses.mkv
 
 # ================= VOD WEB SERIES =================
 
