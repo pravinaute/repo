@@ -49,7 +49,7 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" tvg-type="movie",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
 
-#EXTINF:-1 tvg-name="Kabir Singh 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjU5ZTljMDEtNzg5Ny00OTliLWI3NmYtOTE1ZDg3NTNkMDM0XkEyXkFqcGc@._V1_SX400.jpg" tvg-type="movie",Kabir Singh 2019
+#EXTINF:-1 tvg-name="Kabir Singh 2019" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Hnhjg9Jml4b-YEZIlBTk1eHPMq0zVRQdHTM63hdH8_SC9ymtC1VB5N5HfFVhHiH2B-wgcXXxVgTe68M9xgEhNwWwlUXCifqC637IvaOi&s=10" tvg-type="movie",Kabir Singh 2019
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/K4b1r.51ngh.2019.1080p.AMZN.WEB-DL.H.264.Hindi.AAC2.0.Sdmoviespoint.makeup.mkv
 
 #EXTINF:-1 tvg-name="O’ Romeo 2026" tvg-logo="https://image.tmdb.org/t/p/w500/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" tvg-type="movie",O’ Romeo 2026
@@ -78,6 +78,9 @@ https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/44r4k5h4n.2011.1080p.AMZN.WE
 
 #EXTINF:-1 tvg-name="Drishyam 2015" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjMzZTU0NzUtZGQ0MC00Y2M4LWI5ZDUtZjY1YmNjMjNmNmI3XkEyXkFqcGc@._V1_UX400.jpg" tvg-type="movie",Drishyam 2015
 https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Dr15hy4m.2015.1080p.AMZN.WEB-DL.H.265.DDP5.1.sdm0v13sp01nt.christmas.mkv
+
+#EXTINF:-1 tvg-name="Lockdown 2026" tvg-logo="https://image.tmdb.org/t/p/w400/2IOEJ3zwB5g8mFBGgEE7yzfKjoW.jpg" tvg-type="movie",Lockdown 2026
+https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Lockdown.2026.720p.WEBRip.HIN.DUB.Sdmoviespoint.makeup.mkv
 
 # ================= VOD WEB SERIES =================
 
