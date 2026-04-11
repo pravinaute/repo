@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://avkb.short.gy/tsepg.xml.gz"
 
-# ================= LIVE TV CHANNELS =================
-
 #EXTINF:-1 tvg-id="abpmajha.in" tvg-name="ABP Majha" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/abp-majha-in.png" group-title="Live TV" tvg-type="live",ABP Majha
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master_1280.m3u8
 
@@ -26,8 +24,11 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="b4ukadak.in" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-kadak-in.png" group-title="Live TV" tvg-type="live",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zeedilse.in" tvg-name="Zee Dil Se" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Live TV" tvg-type="live",Zee Dil Se
-https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="themovieclub.in" tvg-name="The Movie Club" group-title="Live TV" tvg-type="live",The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+#EXTINF:-1 tvg-id="southstation.in" tvg-name="South Station" group-title="Live TV" tvg-type="live",South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
 #EXTINF:-1 tvg-id="zeecineclassic.in" tvg-name="Zee Cine Classic" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Live TV" tvg-type="live",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
@@ -35,135 +36,5 @@ https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-id="zeesouthflix.in" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Live TV" tvg-type="live",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-id="boxcinema.in" tvg-name="Box Cinema" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Live TV" tvg-type="live",Box Cinema
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="southstation.in" tvg-name="South Station" group-title="Live TV" tvg-type="live",South Station
-https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-
-#EXTINF:-1 tvg-id="themovieclub.in" tvg-name="The Movie Club" group-title="Live TV" tvg-type="live",The Movie Club
-https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-
-# ================= VOD MOVIES =================
-
 #EXTINF:-1 tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" tvg-type="movie",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
-
-#EXTINF:-1 tvg-name="Kabir Singh 2019" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Hnhjg9Jml4b-YEZIlBTk1eHPMq0zVRQdHTM63hdH8_SC9ymtC1VB5N5HfFVhHiH2B-wgcXXxVgTe68M9xgEhNwWwlUXCifqC637IvaOi&s=10" tvg-type="movie",Kabir Singh 2019
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/K4b1r.51ngh.2019.1080p.AMZN.WEB-DL.H.264.Hindi.AAC2.0.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="O’ Romeo 2026" tvg-logo="https://image.tmdb.org/t/p/w500/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" tvg-type="movie",O’ Romeo 2026
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Oromeo.2026.1080P.Amzn.Web-Dl.Hindi.Ddp5.1.H.264-Sdmoviespoint.courses.mkv
-
-#EXTINF:-1 tvg-name="Padmaavat 2018" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4MzFhOTItMzNmYy00NTg4LWFjYzItMWY0ZDAxY2NmNTUyXkEyXkFqcGc@._V1_SX400.jpg" tvg-type="movie",Padmaavat 2018
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/P4dm44v4t.2018.1080p.NF.WEB-DL.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
-
-#EXTINF:-1 tvg-name="Bloody Daddy 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFlMzkyOTgtMTU0OS00MzkwLWIzMGQtMmI3ZTU2OGJjYWVjXkEyXkFqcGc@._V1_UX400.jpg" tvg-type="movie",Bloody Daddy 2023
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Bl00dy.D4ddy.2023.1080p.HS.WEB-DL.DDP5.1.H.264.sdm0v13sp01nt.pink.mkv
-
-#EXTINF:-1 tvg-name="Udta Punjab 2016" tvg-logo="https://sd1.sdmoviespoint.courses/wp-content/uploads/2025/06/Udta-Punjab-2016-Full-Movie-Download-Free-HD-Web-DL-Hindi-DDP5.1.webp" tvg-type="movie",Udta Punjab 2016
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Udt4.Punj4b.16.Web-DL.720p.sdm0v13sp01nt.ceo.mkv
-
-#EXTINF:-1 tvg-name="Badmaash Company 2010" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZiN2M4OWQtYWJlYy00ZTUxLWJiN2QtYzM1M2NjMjMwMjNjXkEyXkFqcGc@._V1_UX400.jpg" tvg-type="movie",Badmaash Company 2010
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/B4dm445h.C0mp4ny.2010.1080p.NF.WEB-DL.DDP5.1.H.264.sdm0v13sp01nt.pink.mkv
-
-#EXTINF:-1 tvg-name="Padakkalam 2025" tvg-logo="https://sd1.sdmoviespoint.courses/wp-content/uploads/2025/06/Padakkalam-2025-Full-Movie-Download-Free-HD-Web-DL-Multi-Audio-DDP5.1.webp" tvg-type="movie",Padakkalam 2025
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/V1v4h.06.br.sdm0v13sp01nt.com.mp4
-
-#EXTINF:-1 tvg-name="Raazi 2018" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjM0ZTQyNGQtNDZlYy00MWM5LWExZDAtZTM2ZWU4ZGNmYzk2XkEyXkFqcGc@._V1_SX400.jpg" tvg-type="movie",Raazi 2018
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/R44z1.2018.1080p.NF.WEB-DL.DDP5.1.H.264.sdm0v13sp01nt.makeup.mkv
-
-#EXTINF:-1 tvg-name="Aarakshan 2011" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwMjIxNTEyM15BMl5BanBnXkFtZTcwNjM0Njk5NQ@@._V1_SX400.jpg" tvg-type="movie",Aarakshan 2011
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/44r4k5h4n.2011.1080p.AMZN.WEB-DL.H.264.Hindi.AAC2.0.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Drishyam 2015" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjMzZTU0NzUtZGQ0MC00Y2M4LWI5ZDUtZjY1YmNjMjNmNmI3XkEyXkFqcGc@._V1_UX400.jpg" tvg-type="movie",Drishyam 2015
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Dr15hy4m.2015.1080p.AMZN.WEB-DL.H.265.DDP5.1.sdm0v13sp01nt.christmas.mkv
-
-#EXTINF:-1 tvg-name="Lockdown 2026" tvg-logo="https://image.tmdb.org/t/p/w400/2IOEJ3zwB5g8mFBGgEE7yzfKjoW.jpg" tvg-type="movie",Lockdown 2026
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/L0ckd0wn.2026.1080p.AMZN.WEB-DL.H.264.MULTi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Raid 2" tvg-logo="https://sd1.sdmoviespoint.courses/wp-content/uploads/2025/06/Raid-2-2025-Full-Movie-Download-Free-HD-Web-DL-Hindi-DDP5.1.webp" tvg-type="movie",Raid 2
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/R41d.2.25.Web-DL.1080p.sdm0v13sp01nt.ceo.mkv
-
-#EXTINF:-1 tvg-name="Ramprasad Ki Tehrvi 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRkMzEzYWYtMjNhYy00MzgyLWI5YzgtOTNiZjg3YTZmOTQwXkEyXkFqcGc@._V1_SX400.jpg" tvg-type="movie",Ramprasad Ki Tehrvi 2019
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Ram.Prasad.Ki.Tehrvi.2019.1080p.NF.WEB-DL.H.264.Hindi.DDP5.1.sdm0v13sp01nt.courses.mkv
-
-#EXTINF:-1 tvg-name="Ujda Chaman 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4ZjI4MTQtZTM0ZS00YTU0LWFjYjktYjI3YWQ4MjUwY2ZhXkEyXkFqcGc@._V1_SX400.jpg" tvg-type="movie",Ujda Chaman 2019
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/Ujda.Chaman.2019.1080p.AMZN.WEB-DL.H.264.Hindi.DDP5.1.Sdmoviespoint.courses.mkv
-
-# ================= VOD WEB SERIES =================
-
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S2" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="1",01. Without Fear or Favour
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E01.Without.Fear.or.Favour.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
-
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S2" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="2",02. Unbiased
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E02.Unbiased.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
-
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S2" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="3",03. Balanced
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E03.Balanced.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
-
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S2" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="4",04. Emotional Attachment
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E04.Emotional.Attachment.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
-
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S2" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="5",05. Juvenile
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E05.Juvenile.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
-
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S2" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="6",06. Act of God
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E06.Act.of.God.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
-
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S2" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="7",07. Compromise
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E07.Compromise.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
-
-#EXTINF:-1 tvg-name="Maamla Legal Hai" tvg-logo="https://image.tmdb.org/t/p/w400/cKx32LsdrBKGKysguLu9PGuX30U.jpg" group-title="Maamla Legal Hai S2" tvg-type="serie" serie-title="Maamla Legal Hai" tvg-season="2" tvg-episode="8",08. Beyond Reform
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/M44ml4.L3g4l.H41.2026.S02E08.Beyond.Reform.1080p.NF.WEB-DL.Atmos.H.264.Hindi.DDP5.1.sdm0v13sp01nt.makeup.mkv
-
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="1",01. Sankalp
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E01.Sankalp.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="2",02. Guru Dakshina
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E02.Guru.Dakshina.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="3",03. Masterstroke
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E03.Masterstroke.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="4",04. Apmaan
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E04.Apmaan.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="5",05. Sendh
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E05.Sendh.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="6",06. Vishwaasghaat
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E06.Vishwaasghaat.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="7",07. Ant Kaa Aarambh
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E07.Ant.Kaa.Aarambh.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="8",08. Collateral Damage
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E08.Collateral.Damage.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="9",09. Check-Mate
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E09.Check-Mate.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Sankalp" tvg-logo="https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg" group-title="Sankalp S1" tvg-type="serie" serie-title="Sankalp" tvg-season="1" tvg-episode="10",10. Punarsankalp
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/54nk4lp.S01E10.Punarsankalp.1080p.AMZN.WEB-DL.H.265.Hindi.DDP5.1.Sdmoviespoint.makeup.mkv
-
-#EXTINF:-1 tvg-name="Taskaree" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU1NWM4ZTAtZGM0Ny00NTVmLTgxZGItZWUxZTk4Yjg0NWEyXkEyXkFqcGc@._V1_UX400.jpg" group-title="Taskaree S1" tvg-type="serie" serie-title="Taskaree" tvg-season="1" tvg-episode="1",1. Customs vs Popat
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/T45k4r33.Th3.5muggl3r5.W3b.2025.S01E01.Customs.vs.Popat.1080p.NF.WEB-DL.DDP5.1.H.265.sdm0v13sp01nt.christmas.mkv
-
-#EXTINF:-1 tvg-name="Taskaree" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU1NWM4ZTAtZGM0Ny00NTVmLTgxZGItZWUxZTk4Yjg0NWEyXkEyXkFqcGc@._V1_UX400.jpg" group-title="Taskaree S1" tvg-type="serie" serie-title="Taskaree" tvg-season="1" tvg-episode="2",2. Bada Choudhary
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/T45k4r33.Th3.5muggl3r5.W3b.2025.S01E02.Bada.Choudhary.1080p.NF.WEB-DL.DDP5.1.H.265.sdm0v13sp01nt.christmas.mkv
-
-#EXTINF:-1 tvg-name="Taskaree" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU1NWM4ZTAtZGM0Ny00NTVmLTgxZGItZWUxZTk4Yjg0NWEyXkEyXkFqcGc@._V1_UX400.jpg" group-title="Taskaree S1" tvg-type="serie" serie-title="Taskaree" tvg-season="1" tvg-episode="3",3. The Priya Story
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/T45k4r33.Th3.5muggl3r5.W3b.2025.S01E03.The.Priya.Story.1080p.NF.WEB-DL.DDP5.1.H.265.sdm0v13sp01nt.christmas.mkv
-
-#EXTINF:-1 tvg-name="Taskaree" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU1NWM4ZTAtZGM0Ny00NTVmLTgxZGItZWUxZTk4Yjg0NWEyXkEyXkFqcGc@._V1_UX400.jpg" group-title="Taskaree S1" tvg-type="serie" serie-title="Taskaree" tvg-season="1" tvg-episode="4",4. Operation Longshot
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/T45k4r33.Th3.5muggl3r5.W3b.2025.S01E04.Operation.Longshot.1080p.NF.WEB-DL.DDP5.1.H.265.sdm0v13sp01nt.christmas.mkv
-
-#EXTINF:-1 tvg-name="Taskaree" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU1NWM4ZTAtZGM0Ny00NTVmLTgxZGItZWUxZTk4Yjg0NWEyXkEyXkFqcGc@._V1_UX400.jpg" group-title="Taskaree S1" tvg-type="serie" serie-title="Taskaree" tvg-season="1" tvg-episode="5",5. Hum Coin Hain
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/T45k4r33.Th3.5muggl3r5.W3b.2025.S01E05.Hum.Coin.Hain.1080p.NF.WEB-DL.DDP5.1.H.265.sdm0v13sp01nt.christmas.mkv
-
-#EXTINF:-1 tvg-name="Taskaree" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU1NWM4ZTAtZGM0Ny00NTVmLTgxZGItZWUxZTk4Yjg0NWEyXkEyXkFqcGc@._V1_UX400.jpg" group-title="Taskaree S1" tvg-type="serie" serie-title="Taskaree" tvg-season="1" tvg-episode="6",6. Darr Ka Dhandha
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/T45k4r33.Th3.5muggl3r5.W3b.2025.S01E06.Darr.Ka.Dhandha.1080p.NF.WEB-DL.DDP5.1.H.265.sdm0v13sp01nt.christmas.mkv
-
-#EXTINF:-1 tvg-name="Taskaree" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU1NWM4ZTAtZGM0Ny00NTVmLTgxZGItZWUxZTk4Yjg0NWEyXkEyXkFqcGc@._V1_UX400.jpg" group-title="Taskaree S1" tvg-type="serie" serie-title="Taskaree" tvg-season="1" tvg-episode="7",7. Kahani Khatam
-https://pub-bdf580b611764408974ea0ac5822adb0.r2.dev/T45k4r33.Th3.5muggl3r5.W3b.2025.S01E07.Kahani.Khatam.1080p.NF.WEB-DL.DDP5.1.H.265.sdm0v13sp01nt.christmas.mkv
