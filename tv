@@ -47,3 +47,6 @@ https://hdmovie3.rpmlive.online/hls/3fGS80hVyC0x5kZn-R1l8A/61/fmg9yacp/moya5u/tt
 
 #EXTINF:-1 tvg-name="Aashiqui (1990)" tvg-logo="https://i.scdn.co/image/ab67616d0000b27349e862c57d46af9c26a97201" tvg-type="movie",Aashiqui (1990)
 https://etojdo3yv1iw.aurorionlab.store/Qt9MDOYehjgb/hls3/01/07835/kko67ghy926h_n/index-v1-a1.txt
+
+#EXTINF:-1 tvg-name="Dhamaal" tvg-logo="https://d11ro0k7wh29su.cloudfront.net/shemoutputimages/Dhamaal/5ba8d2bca609d2e15300000f/large_2_3_1775566402.jpg?1775566375" tvg-type="movie",Dhamaal
+http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/3340_vod.m3u8
