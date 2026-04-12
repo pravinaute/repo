@@ -47,3 +47,6 @@ https://hdmovie3.rpmlive.online/hls/3fGS80hVyC0x5kZn-R1l8A/61/fmg9yacp/moya5u/tt
 
 #EXTINF:-1 tvg-name="Mimi" tvg-logo="https://image.tmdb.org/t/p/w500/AtCUHSf5sG31FL0vugxplft5FXW.jpg" tvg-type="movie",Mimi
 https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Mimi.2021.1080p.NF.WEB-DL.H.265.Hindi.DDP5.1.sdm0v13sp01nt.courses.mkv
+
+#EXTINF:-1 tvg-name="Pagglait" tvg-logo="https://image.tmdb.org/t/p/w500/oIVAwceJjOwFjUkoJoOiooGupm0.jpg" tvg-type="movie",Pagglait
+https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Pagglait.2021.1080p.NF.WEB-DL.H.265.Hindi.DDP5.1.sdm0v13sp01nt.courses.mkv
