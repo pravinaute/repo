@@ -57,5 +57,5 @@ https://watchhd.upns.live/hls/1XTWMPzOIYZxWp1Grgnmkw/8q/h9k8sjg5/qbbga6/tt/index
 #EXTINF:-1 tvg-name="Assi" tvg-logo="https://image.tmdb.org/t/p/w500/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg" tvg-type="movie",Assi
 https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/4551.26.HD.Web-DL.1080p.ZEE5.Hindi.DDP5.1.sdm0v13sp01nt.courses.mkv
 
-#EXTINF:- Matka King E1
+#EXTINF:- tvg-name="Matka King E1", E1
 https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Matka.King.S01E01.Taqdeer.Tadbeer.Tarkeeb.1080p.AMZN.WEB-DL.H.264.Hindi.DDP5.1.Sdmoviespoint.courses.mkv
