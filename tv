@@ -59,3 +59,12 @@ https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/4551.26.HD.Web-DL.1080p.ZEE5
 
 #EXTINF:-1 tvg-id="MatkaKing" tvg-name="Matka King" tvg-logo="https://image.tmdb.org/t/p/w400/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg" tvg-type="series" season="1" episode="1",S01E01 - Taqdeer Tadbeer Tarkeeb
 https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Matka.King.S01E01.Taqdeer.Tadbeer.Tarkeeb.1080p.AMZN.WEB-DL.H.264.Hindi.DDP5.1.Sdmoviespoint.courses.mkv
+
+#EXTINF:-1 tvg-id="BB.S01E01" serie-title="Breaking Bad" tvg-serie="Breaking Bad" season="1" episode="1", Breaking Bad S01E01 - Pilot
+http://yourprovider.com/series/bb_s01_e01.mp4
+
+#EXTINF:-1 tvg-id="BB.S01E02" serie-title="Breaking Bad" tvg-serie="Breaking Bad" season="1" episode="2", Breaking Bad S01E02 - Cat's in the Bag
+http://yourprovider.com/series/bb_s01_e02.mp4
+
+#EXTINF:-1 tvg-id="BB.S02E01" serie-title="Breaking Bad" tvg-serie="Breaking Bad" season="2" episode="1", Breaking Bad S02E01 - Seven Thirty-Seven
+http://yourprovider.com/series/bb_s02_e01.mp4
