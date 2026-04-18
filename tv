@@ -60,6 +60,9 @@ https://server1.iwaatch.com/media/Troy/movie_720.mp4?s=CLb33DMsZpIcD4rKgs8tcA&e=
 #EXTINF:-1 tvg-name="The Shawshank Redemption" tvg-logo="https://iwaatch.com/images/movie/cover/73521d01-62c8-43f5-afb4-3a66c468296a.webp" tvg-type="movie",The Shawshank Redemption
 https://server1.iwaatch.com/media/The_Shawshank_Redemption/movie_1080.mp4?s=WtZloGLiMBSJ97whkbhSWw&e=1776516210
 
+#EXTINF:-1 tvg-name="Parasite" tvg-logo="https://iwaatch.com/images/movie/cover/7b17a82c-8da0-4b1a-a15f-45ec2ff4da7f.webp" tvg-type="movie",Parasite
+https://server1.iwaatch.com/media/parasite-2019/movie_1080.mp4?s=cpMIs7KW8izsa1zgCoaBXw&e=1776516494
+
 #EXTINF:-1 tvg-name="Maamla Legal Hai S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc4MzIwZTgtYWM5OS00Yzg1LWFlM2YtN2ZkNWZmMTVmZDg2XkEyXkFqcGc@._V1_.jpg" tvg-type="series",Maamla Legal Hai S2
 https://hdmovie3.rpmlive.online/hls/3fGS80hVyC0x5kZn-R1l8A/61/fmg9yacp/moya5u/tt/index-f2-v1-a1.m3u8?v=1766826492
 
