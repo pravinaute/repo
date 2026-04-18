@@ -36,9 +36,6 @@ https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-id="zeesouthflix.in" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Live TV" tvg-type="live",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Maamla Legal Hai S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc4MzIwZTgtYWM5OS00Yzg1LWFlM2YtN2ZkNWZmMTVmZDg2XkEyXkFqcGc@._V1_.jpg" tvg-type="series",Maamla Legal Hai S2
-https://hdmovie3.rpmlive.online/hls/3fGS80hVyC0x5kZn-R1l8A/61/fmg9yacp/moya5u/tt/index-f2-v1-a1.m3u8?v=1766826492
-
 #EXTINF:-1 tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" tvg-type="movie",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
 
@@ -57,5 +54,8 @@ https://watchhd.upns.live/hls/1XTWMPzOIYZxWp1Grgnmkw/8q/h9k8sjg5/qbbga6/tt/index
 #EXTINF:-1 tvg-name="Assi" tvg-logo="https://image.tmdb.org/t/p/w500/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg" tvg-type="movie",Assi
 https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/4551.26.HD.Web-DL.1080p.ZEE5.Hindi.DDP5.1.sdm0v13sp01nt.courses.mkv
 
-#EXTINF:-1 tvg-id="MatkaKing" tvg-name="Matka King" tvg-logo="https://image.tmdb.org/t/p/w400/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg" tvg-type="series" season="1" episode="1",S01E01 - Taqdeer Tadbeer Tarkeeb
+#EXTINF:-1 tvg-name="Maamla Legal Hai S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc4MzIwZTgtYWM5OS00Yzg1LWFlM2YtN2ZkNWZmMTVmZDg2XkEyXkFqcGc@._V1_.jpg" tvg-type="series",Maamla Legal Hai S2
+https://hdmovie3.rpmlive.online/hls/3fGS80hVyC0x5kZn-R1l8A/61/fmg9yacp/moya5u/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-name="Matka King S1" tvg-logo="https://image.tmdb.org/t/p/w400/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg" tvg-type="series",Matka King S01E01 - Taqdeer Tadbeer Tarkeeb
 https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Matka.King.S01E01.Taqdeer.Tadbeer.Tarkeeb.1080p.AMZN.WEB-DL.H.264.Hindi.DDP5.1.Sdmoviespoint.courses.mkv
