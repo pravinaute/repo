@@ -39,6 +39,9 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" tvg-type="movie",Doorbeen
 https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
 
+#EXTINF:-1 tvg-name="Malamaal Weekly" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.dVQANfLJuhRs00qUbN-KzQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" tvg-type="movie",Malamaal Weekly
+https://archive.org/download/malamaal-weekly-2006-720p-dv-drip-x-264-ac-3-5.1...-hon-3y/Malamaal%20Weekly%202006%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
+
 #EXTINF:-1 tvg-name="Raid 2" tvg-logo="https://bollyspice.com/wp-content/uploads/2025/04/30x40-RAID2-FACEOFF-ENSMBLE_AW1-scaled.jpeg" tvg-type="movie",Raid 2
 https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/R41d.2.25.Web-DL.720p.sdm0v13sp01nt.ceo.mkv
 
@@ -69,17 +72,8 @@ https://server1.iwaatch.com/media/12_Years_a_Slave/movie_1080.mp4?s=2jLQTcyWTadU
 #EXTINF:-1 tvg-name="The Pursuit of Happyness" tvg-logo="https://iwaatch.com/images/movie/cover/1a02be4a-8a69-4530-acf8-0110bb30e76f.webp" tvg-type="movie",The Pursuit of Happyness
 https://server1.iwaatch.com/media/The_Pursuit_of_Happyness/movie_1080.mp4?s=f6wHwsuAX4rsIfZuCclj1Q&e=1776517163
 
-#EXTINF:-1 tvg-name="Busanhaeng" tvg-logo="https://iwaatch.com/images/movie/cover/b06fd61f-7a0d-4e4b-bceb-1223628cc168.webp" tvg-type="movie",Busanhaeng
-https://server1.iwaatch.com/media/Busanhaeng/movie_1080.mp4?s=vr3j7YhUy43AG29mDrRI0w&e=1776522259
-
-#EXTINF:-1 tvg-name="A Taxi Driver" tvg-logo="https://iwaatch.com/images/movie/cover/742c8efb-941f-4d11-8d51-ead9900c37aa.webp" tvg-type="movie",A Taxi Driver
-https://server1.iwaatch.com/media/A_Taxi_Driver/movie_1080.mp4?s=6zdrfrbaE0f8AstRYfBL_g&e=1776522529
-
 #EXTINF:-1 tvg-name="Cast Away" tvg-logo="https://iwaatch.com/images/movie/cover/68c31868-64a9-4236-b1fa-833fe4e702b0.webp" tvg-type="movie",Cast Away
 https://server1.iwaatch.com/media/Cast_Away/movie_1080.mp4?s=pks-6QJnUzQzXz7KNNrjmQ&e=1776522876
 
 #EXTINF:-1 tvg-name="Maamla Legal Hai S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc4MzIwZTgtYWM5OS00Yzg1LWFlM2YtN2ZkNWZmMTVmZDg2XkEyXkFqcGc@._V1_.jpg" tvg-type="series",Maamla Legal Hai S2
 https://hdmovie3.rpmlive.online/hls/3fGS80hVyC0x5kZn-R1l8A/61/fmg9yacp/moya5u/tt/index-f2-v1-a1.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-name="Matka King S1" tvg-logo="https://image.tmdb.org/t/p/w400/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg" tvg-type="series",Matka King S01E01 - Taqdeer Tadbeer Tarkeeb
-https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Matka.King.S01E01.Taqdeer.Tadbeer.Tarkeeb.1080p.AMZN.WEB-DL.H.264.Hindi.DDP5.1.Sdmoviespoint.courses.mkv
