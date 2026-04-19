@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="Adult", XXX
-https://raw.githubusercontent.com/pravinaute/repo/refs/heads/main/tv
-
-#EXTINF:-1 group-title="Live", TV
-https://raw.githubusercontent.com/pravinaute/repo/refs/heads/main/ADX
