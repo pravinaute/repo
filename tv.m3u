@@ -1,0 +1,88 @@
+#EXTM3U url-tvg="https://avkb.short.gy/tsepg.xml.gz"
+
+#EXTINF:-1 tvg-id="abpmajha.in" tvg-name="ABP Majha" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/abp-majha-in.png" group-title="Live TV" tvg-type="live",ABP Majha
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master_1280.m3u8
+
+#EXTINF:-1 tvg-id="zee24taas.in" tvg-name="Zee 24 Taas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-24-taas-in.png" group-title="Live TV" tvg-type="live",Zee 24 Taas
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-id="tv9marathi.in" tvg-name="TV9 Marathi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/tv9-marathi-in.png" group-title="Live TV" tvg-type="live",TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/abp-news-in.png" group-title="Live TV" tvg-type="live",ABP News
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
+
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-news-in.png" group-title="Live TV" tvg-type="live",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+
+#EXTINF:-1 tvg-id="aajtak.in" tvg-name="Aaj Tak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/aaj-tak-in.png" group-title="Live TV" tvg-type="live",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-movies-in.png" group-title="Live TV" tvg-type="live",B4U Movies
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b4ukadak.in" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-kadak-in.png" group-title="Live TV" tvg-type="live",B4U Kadak
+https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="themovieclub.in" tvg-name="The Movie Club" group-title="Live TV" tvg-type="live",The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+#EXTINF:-1 tvg-id="southstation.in" tvg-name="South Station" group-title="Live TV" tvg-type="live",South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+
+#EXTINF:-1 tvg-id="zeecineclassic.in" tvg-name="Zee Cine Classic" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Live TV" tvg-type="live",Zee Cine Classic
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zeesouthflix.in" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Live TV" tvg-type="live",Zee South Flix
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" tvg-type="movie",Doorbeen
+https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-4ca6-8b8a-2824fc1b15bd/hls/OutputFullHD.m3u8
+
+#EXTINF:-1 tvg-name="Raid 2" tvg-logo="https://bollyspice.com/wp-content/uploads/2025/04/30x40-RAID2-FACEOFF-ENSMBLE_AW1-scaled.jpeg" tvg-type="movie",Raid 2
+https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/R41d.2.25.Web-DL.720p.sdm0v13sp01nt.ceo.mkv
+
+#EXTINF:-1 tvg-name="Mimi" tvg-logo="https://image.tmdb.org/t/p/w500/AtCUHSf5sG31FL0vugxplft5FXW.jpg" tvg-type="movie",Mimi
+https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Mimi.2021.1080p.NF.WEB-DL.H.265.Hindi.DDP5.1.sdm0v13sp01nt.courses.mkv
+
+#EXTINF:-1 tvg-name="Pagglait" tvg-logo="https://image.tmdb.org/t/p/w500/oIVAwceJjOwFjUkoJoOiooGupm0.jpg" tvg-type="movie",Pagglait
+https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Pagglait.2021.1080p.NF.WEB-DL.H.265.Hindi.DDP5.1.sdm0v13sp01nt.courses.mkv
+
+#EXTINF:-1 tvg-name="Tribhanga" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWEzYmFmMjEtY2NkNi00OTc5LTk0NjUtNDI2NjQ3NjI0ODVjXkEyXkFqcGc@._V1_SX400.jpg" tvg-type="movie",Tribhanga
+https://watchhd.upns.live/hls/1XTWMPzOIYZxWp1Grgnmkw/8q/h9k8sjg5/qbbga6/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-name="Assi" tvg-logo="https://image.tmdb.org/t/p/w500/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg" tvg-type="movie",Assi
+https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/4551.26.HD.Web-DL.1080p.ZEE5.Hindi.DDP5.1.sdm0v13sp01nt.courses.mkv
+
+#EXTINF:-1 tvg-name="Troy" tvg-logo="https://iwaatch.com/images/movie/cover/4916bf85-65dd-4a6b-a98d-62d0452757f4.webp" tvg-type="movie",Troy
+https://server1.iwaatch.com/media/Troy/movie_720.mp4?s=CLb33DMsZpIcD4rKgs8tcA&e=1776515737
+
+#EXTINF:-1 tvg-name="The Shawshank Redemption" tvg-logo="https://iwaatch.com/images/movie/cover/73521d01-62c8-43f5-afb4-3a66c468296a.webp" tvg-type="movie",The Shawshank Redemption
+https://server1.iwaatch.com/media/The_Shawshank_Redemption/movie_1080.mp4?s=WtZloGLiMBSJ97whkbhSWw&e=1776516210
+
+#EXTINF:-1 tvg-name="Parasite" tvg-logo="https://iwaatch.com/images/movie/cover/7b17a82c-8da0-4b1a-a15f-45ec2ff4da7f.webp" tvg-type="movie",Parasite
+https://server1.iwaatch.com/media/parasite-2019/movie_1080.mp4?s=cpMIs7KW8izsa1zgCoaBXw&e=1776516494
+
+#EXTINF:-1 tvg-name="12 Years a Slave" tvg-logo="https://iwaatch.com/images/movie/cover/3d7762d7-eae8-4fd8-b569-420545580c37.webp" tvg-type="movie",12 Years a Slave
+https://server1.iwaatch.com/media/12_Years_a_Slave/movie_1080.mp4?s=2jLQTcyWTadU5zlo85LyVw&e=1776516864
+
+#EXTINF:-1 tvg-name="The Pursuit of Happyness" tvg-logo="https://iwaatch.com/images/movie/cover/1a02be4a-8a69-4530-acf8-0110bb30e76f.webp" tvg-type="movie",The Pursuit of Happyness
+https://server1.iwaatch.com/media/The_Pursuit_of_Happyness/movie_1080.mp4?s=f6wHwsuAX4rsIfZuCclj1Q&e=1776517163
+
+#EXTINF:-1 tvg-name="Busanhaeng" tvg-logo="https://iwaatch.com/images/movie/cover/b06fd61f-7a0d-4e4b-bceb-1223628cc168.webp" tvg-type="movie",Busanhaeng
+https://server1.iwaatch.com/media/Busanhaeng/movie_1080.mp4?s=vr3j7YhUy43AG29mDrRI0w&e=1776522259
+
+#EXTINF:-1 tvg-name="A Taxi Driver" tvg-logo="https://iwaatch.com/images/movie/cover/742c8efb-941f-4d11-8d51-ead9900c37aa.webp" tvg-type="movie",A Taxi Driver
+https://server1.iwaatch.com/media/A_Taxi_Driver/movie_1080.mp4?s=6zdrfrbaE0f8AstRYfBL_g&e=1776522529
+
+#EXTINF:-1 tvg-name="Cast Away" tvg-logo="https://iwaatch.com/images/movie/cover/68c31868-64a9-4236-b1fa-833fe4e702b0.webp" tvg-type="movie",Cast Away
+https://server1.iwaatch.com/media/Cast_Away/movie_1080.mp4?s=pks-6QJnUzQzXz7KNNrjmQ&e=1776522876
+
+#EXTINF:-1 tvg-name="Maamla Legal Hai S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc4MzIwZTgtYWM5OS00Yzg1LWFlM2YtN2ZkNWZmMTVmZDg2XkEyXkFqcGc@._V1_.jpg" tvg-type="series",Maamla Legal Hai S2
+https://hdmovie3.rpmlive.online/hls/3fGS80hVyC0x5kZn-R1l8A/61/fmg9yacp/moya5u/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-name="Matka King S1" tvg-logo="https://image.tmdb.org/t/p/w400/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg" tvg-type="series",Matka King S01E01 - Taqdeer Tadbeer Tarkeeb
+https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Matka.King.S01E01.Taqdeer.Tadbeer.Tarkeeb.1080p.AMZN.WEB-DL.H.264.Hindi.DDP5.1.Sdmoviespoint.courses.mkv
+
+#EXTINF:-1 tvg-name="वर्गमंत्री" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPrkHJOTwE-z7OmHfGWRYy5d_3GvKCYOuJza-_cnbctrprP4zxgqdI-Jp4dtJzBF7wfVnnG1oGX4syb0LVZSpY73yuUWs4kAZshIi5YZVxktanJYBtTD55TwX9M1QW4aY3Ftn26IUDY7fNHrGM5au0c-4HJf-MmGKZjkcb6XTxBOPu7FuoEZLEeFWjZBeq/w640-h360/free-marathi-movies-vargmantri-marathi-webseries-watch-download.jpg" tvg-type="series",वर्गमंत्री 1
+https://youtu.be/2Hv9LFsQKnU?si=9iRWV9aztlMmOWRA
