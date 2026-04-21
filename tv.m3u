@@ -33,7 +33,7 @@ http://103.154.3.101:5001/live/165.m3u8
 #EXTINF:-1 tvg-id="ZeeTalkiesHD.in" tvg-name="Zee Talkies HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-talkies-hd-in.png" group-title="Live TV" tvg-type="live",Zee Talkies HD
 http://103.154.3.101:5001/live/1358.m3u8
 
-#EXTINF:-1 tvg-id="SonyHD.in" tvg-name="Sony HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-entertainment-television-hd-in.png" group-title="Live TV" tvg-type="live",Sony HD
+#EXTINF:-1 tvg-id="SetHD.in" tvg-name="SET HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-entertainment-television-hd-in.png" group-title="Live TV" tvg-type="live",SET HD
 https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
 
 #EXTINF:-1 tvg-id="SonyMaxHD.in" tvg-name="Sony Max HD", Sony Max HD
