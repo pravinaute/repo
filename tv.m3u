@@ -24,7 +24,7 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="b4ukadak.in" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-kadak-in.png" group-title="Live TV" tvg-type="live",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="&PicturesHD.in" tvg-name="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-kadak-in.png" group-title="Live TV" tvg-type="live",&Pictures HD
+#EXTINF:-1 tvg-id="&PicturesHD.in" tvg-name="&Pictures HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/and-pictures-hd-in.png" group-title="Live TV" tvg-type="live",&Pictures HD
 http://103.154.3.101:5001/live/185.m3u8
 
 #EXTINF:-1 tvg-id="themovieclub.in" tvg-name="The Movie Club" group-title="Live TV" tvg-type="live",The Movie Club
