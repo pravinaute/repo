@@ -30,7 +30,7 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-id="southstation.in" tvg-name="South Station" group-title="Live TV" tvg-type="live",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
-#EXTINF:-1 tvg-id="zeecineclassic.in" tvg-name="Zee Cine Classic" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Live TV" tvg-type="live",Zee Cine Classic
+#EXTINF:-1 tvg-id="zeecineclassic.in" tvg-name="Zee Cine Classic" tvg-logo="https://i.ibb.co/WND1GzQ4/zee-cine-classic.png" group-title="Live TV" tvg-type="live",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zeesouthflix.in" tvg-name="Zee South Flix" tvg-logo="https://i.ibb.co/pvwXj5Mk/cropped-circle-image-2.png" group-title="Live TV" tvg-type="live",Zee South Flix
