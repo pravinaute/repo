@@ -24,28 +24,7 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="b4ukadak.in" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-kadak-in.png" group-title="Live TV" tvg-type="live",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="&PicturesHD.in" tvg-name="&Pictures HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/and-pictures-hd-in.png" group-title="Live TV" tvg-type="live",&Pictures HD
-http://103.154.3.101:5001/live/185.m3u8
-
-#EXTINF:-1 tvg-id="ZeeCinemaHD.in" tvg-name="Zee Cinema HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-cinema-hd-in.png" group-title="Live TV" tvg-type="live",Zee Cinema HD
-http://103.154.3.101:5001/live/165.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTalkiesHD.in" tvg-name="Zee Talkies HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-talkies-hd-in.png" group-title="Live TV" tvg-type="live",Zee Talkies HD
-http://103.154.3.101:5001/live/1358.m3u8
-
-#EXTINF:-1 tvg-id="sonymarathi.in" tvg-name="Sony Marathi" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-marathi-in.png" group-title="Live TV" tvg-type="live",Sony Marathi 
-https://sl.vodep39240327.workers.dev/channel/SONY%20MARATHI.m3u8
-
-#EXTINF:-1 tvg-id="sethd.in" tvg-name="SET HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-entertainment-television-hd-in.png" group-title="Live TV" tvg-type="live",SET HD
-https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8
-
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-max-hd-in.png" group-title="Live TV" tvg-type="live",Sony Max HD
-https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8
-
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-pix-hd-in.png" group-title="Live TV" tvg-type="live",Sony Pix HD
-https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
-
-#EXTINF:-1 tvg-id="themovieclub.in" tvg-name="The Movie Club" group-title="Live TV" tvg-type="live",The Movie Club
+#EXTINF:-1 tvg-id="themovieclub.in" tvg-name="The Movie Club" tvg-logo="https://i.ibb.co/vCQCVybD/92096-removebg-preview.png" group-title="Live TV" tvg-type="live",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
 #EXTINF:-1 tvg-id="southstation.in" tvg-name="South Station" group-title="Live TV" tvg-type="live",South Station
