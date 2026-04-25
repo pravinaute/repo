@@ -3,37 +3,37 @@
 #EXTINF:-1 tvg-id="abpmajha.in" tvg-name="ABP Majha" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/abp-majha-in.png" tvg-type="live",ABP Majha
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master_1280.m3u8
 
-#EXTINF:-1 tvg-id="zee24taas.in" tvg-name="Zee 24 Taas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-24-taas-in.png" group-title="Live TV" tvg-type="live",Zee 24 Taas
+#EXTINF:-1 tvg-id="zee24taas.in" tvg-name="Zee 24 Taas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-24-taas-in.png" tvg-type="live",Zee 24 Taas
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 
-#EXTINF:-1 tvg-id="tv9marathi.in" tvg-name="TV9 Marathi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/tv9-marathi-in.png" group-title="Live TV" tvg-type="live",TV9 Marathi
+#EXTINF:-1 tvg-id="tv9marathi.in" tvg-name="TV9 Marathi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/tv9-marathi-in.png" tvg-type="live",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/abp-news-in.png" group-title="Live TV" tvg-type="live",ABP News
+#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/abp-news-in.png" tvg-type="live",ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
 
-#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-news-in.png" group-title="Live TV" tvg-type="live",Zee News
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-news-in.png" tvg-type="live",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 tvg-id="aajtak.in" tvg-name="Aaj Tak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/aaj-tak-in.png" group-title="Live TV" tvg-type="live",Aaj Tak
+#EXTINF:-1 tvg-id="aajtak.in" tvg-name="Aaj Tak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/aaj-tak-in.png" tvg-type="live",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-movies-in.png" group-title="Live TV" tvg-type="live",B4U Movies
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-movies-in.png" tvg-type="live",B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="b4ukadak.in" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-kadak-in.png" group-title="Live TV" tvg-type="live",B4U Kadak
+#EXTINF:-1 tvg-id="b4ukadak.in" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-kadak-in.png" tvg-type="live",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="themovieclub.in" tvg-name="The Movie Club" tvg-logo="https://i.ibb.co/DDVLsFw2/the-movie-club.png" group-title="Live TV" tvg-type="live",The Movie Club
+#EXTINF:-1 tvg-id="themovieclub.in" tvg-name="The Movie Club" tvg-logo="https://i.ibb.co/DDVLsFw2/the-movie-club.png" tvg-type="live",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
-#EXTINF:-1 tvg-id="southstation.in" tvg-name="South Station" tvg-logo="https://i.ibb.co/vxzKNndT/south-station.png" group-title="Live TV" tvg-type="live",South Station
+#EXTINF:-1 tvg-id="southstation.in" tvg-name="South Station" tvg-logo="https://i.ibb.co/vxzKNndT/south-station.png" tvg-type="live",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
-#EXTINF:-1 tvg-id="zeecineclassic.in" tvg-name="Zee Cine Classic" tvg-logo="https://i.ibb.co/WND1GzQ4/zee-cine-classic.png" group-title="Live TV" tvg-type="live",Zee Cine Classic
+#EXTINF:-1 tvg-id="zeecineclassic.in" tvg-name="Zee Cine Classic" tvg-logo="https://i.ibb.co/WND1GzQ4/zee-cine-classic.png" tvg-type="live",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zeesouthflix.in" tvg-name="Zee South Flix" tvg-logo="https://i.ibb.co/F4cpk6Yn/south-flix.png" group-title="Live TV" tvg-type="live",Zee South Flix
+#EXTINF:-1 tvg-id="zeesouthflix.in" tvg-name="Zee South Flix" tvg-logo="https://i.ibb.co/F4cpk6Yn/south-flix.png" tvg-type="live",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Doorbeen" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/banner/common/mobile/page/banners/pxrsoq.jpeg" tvg-type="movie",Doorbeen
