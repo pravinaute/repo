@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://avkb.short.gy/tsepg.xml.gz"
 
-#EXTINF:-1 tvg-id="abpmajha.in" tvg-name="ABP Majha" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/abp-majha-in.png" group-title="Live TV" tvg-type="live",ABP Majha
+#EXTINF:-1 tvg-id="abpmajha.in" tvg-name="ABP Majha" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/abp-majha-in.png" tvg-type="live",ABP Majha
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master_1280.m3u8
 
 #EXTINF:-1 tvg-id="zee24taas.in" tvg-name="Zee 24 Taas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-24-taas-in.png" group-title="Live TV" tvg-type="live",Zee 24 Taas
@@ -44,6 +44,9 @@ https://archive.org/download/malamaal-weekly-2006-720p-dv-drip-x-264-ac-3-5.1...
 
 #EXTINF:-1 tvg-name="Mission Majnu" tvg-logo="https://image.tmdb.org/t/p/w500/jHQitiHK4M561W1O7WwfJ0dJ8S1.jpg" tvg-type="movie",Mission Majnu
 https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Mission.Majnu.2023.720p.NF.WEB-DL.H.264.Hindi.DDP5.1.Sdmoviespoint.courses.mkv
+
+#EXTINF:-1 tvg-name="Mission Raniganj" tvg-logo="https://image.tmdb.org/t/p/w500/3804yFLTPlMqG6Jxsm20aqcFEfU.jpg" tvg-type="movie",Mission Raniganj
+https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/Mission.Raniganj.The.Great.Bharat.Rescue.2023.720p.NF.WEB-DL.H.264.Hindi.DDP5.1.Sdmoviespoint.courses.mkv
 
 #EXTINF:-1 tvg-name="Raid 2" tvg-logo="https://bollyspice.com/wp-content/uploads/2025/04/30x40-RAID2-FACEOFF-ENSMBLE_AW1-scaled.jpeg" tvg-type="movie",Raid 2
 https://pub-a9abed398f2a4a95a4e4504894dfc994.r2.dev/R41d.2.25.Web-DL.720p.sdm0v13sp01nt.ceo.mkv
