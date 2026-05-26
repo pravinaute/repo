@@ -43,7 +43,7 @@ https://d1vt14kzjswbkr.cloudfront.net/production/147/videos/video/f7993473-0f31-
 https://archive.org/download/malamaal-weekly-2006-720p-dv-drip-x-264-ac-3-5.1...-hon-3y/Malamaal%20Weekly%202006%20720p%20DvDRip%20x264%20AC3%205.1...Hon3y.mkv
 
 #EXTINF:-1 tvg-name="Dhol" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2F5%2Fgracenote%2F545155cffb2dbc1f0cb541b78a9cd58d.jpg" tvg-type="movie",Dhol
-https://vod-content.plexvideos.com/streams/62bf1b945e5872e950b3be93/bf1317d4-480b-4991-ba89-86203d20436b/stream_3.m3u8
+pipe:ffmpeg -re -i "https://vod-content.plexvideos.com/streams/62bf1b945e5872e950b3be93/bf1317d4-480b-4991-ba89-86203d20436b/stream_3.m3u8" -i "https://vod-content.plexvideos.com/streams/62bf1b945e5872e950b3be93/bf1317d4-480b-4991-ba89-86203d20436b/stream_0.m3u8" -map 0:v:0 -map 1:a:0 -c:v copy -c:a copy -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="Scam 2003 S1" tvg-logo="https://images.justwatch.com/poster/309357777/s718/scam-2003-the-telgi-story.jpg" tvg-type="series",Scam 2003 S1
 https://hugh.cdn.rumble.cloud/video/s8/2/O/N/G/z/ONGzm.caa.mp4?u=3&b=0
