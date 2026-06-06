@@ -45,6 +45,9 @@ https://archive.org/download/malamaal-weekly-2006-720p-dv-drip-x-264-ac-3-5.1...
 #EXTINF:-1 tvg-name="Gundaraj" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fe%2Fgracenote%2Fe4305cfbbb2d446d9995f8e3c69e036f.jpg" tvg-type="movie",Gundaraj
 https://vod-content.plexvideos.com/streams/62d04e03700e44e586f9c627/724ad096-82e9-4ac0-836f-8e074373f8bf/stream_7.m3u8
 
+#EXTINF:-1 tvg-name="Kissebaaz" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2Ff%2Fgracenote%2Ff28942cbe41c219b573a4fa609f2c969.jpg" tvg-type="movie",Kissebaaz
+https://vod-content.plexvideos.com/streams/62bf1b9b5e5872e950b4d455/3473e515-4923-4a94-9b2d-c75191755f77/stream_2.m3u8
+
 #EXTINF:-1 tvg-name="Scam 2003 S1" tvg-logo="https://images.justwatch.com/poster/309357777/s718/scam-2003-the-telgi-story.jpg" tvg-type="series",Scam 2003 S1
 https://hugh.cdn.rumble.cloud/video/s8/2/O/N/G/z/ONGzm.caa.mp4?u=3&b=0
 
